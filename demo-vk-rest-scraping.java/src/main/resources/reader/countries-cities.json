@@ -1,0 +1,6790 @@
+{
+  "countriesCount": 236,
+  "countries": [
+    {
+      "cid": 30,
+      "title": "Afghanistan",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 3421618,
+          "title": "Charikar"
+        },
+        {
+          "cid": 3001,
+          "title": "Herat"
+        },
+        {
+          "cid": 2203536,
+          "title": "Jalalabad"
+        },
+        {
+          "cid": 705,
+          "title": "Kabul"
+        },
+        {
+          "cid": 2205992,
+          "title": "Kandahar"
+        },
+        {
+          "cid": 1907838,
+          "title": "Kondūz"
+        },
+        {
+          "cid": 1901911,
+          "title": "Mazār-e Sharīf"
+        },
+        {
+          "cid": 3411661,
+          "title": "Pol-e Khomrī"
+        },
+        {
+          "cid": 3408193,
+          "title": "Sheberghān"
+        },
+        {
+          "cid": 3406734,
+          "title": "Talūkān"
+        }
+      ]
+    },
+    {
+      "cid": 21,
+      "title": "Albania",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 4553191,
+          "title": "Durrës"
+        },
+        {
+          "cid": 3300640,
+          "title": "Elbasan"
+        },
+        {
+          "cid": 4553160,
+          "title": "Fier"
+        },
+        {
+          "cid": 4552014,
+          "title": "Shkodër"
+        },
+        {
+          "cid": 1973608,
+          "title": "Tirana"
+        },
+        {
+          "cid": 1904519,
+          "title": "Vlorë"
+        }
+      ]
+    },
+    {
+      "cid": 22,
+      "title": "Algeria",
+      "citiesCount": 5,
+      "cities": [
+        {
+          "cid": 2203654,
+          "title": "Alger"
+        },
+        {
+          "cid": 1960869,
+          "title": "Annaba"
+        },
+        {
+          "cid": 4182962,
+          "title": "Batna"
+        },
+        {
+          "cid": 4182177,
+          "title": "Constantine"
+        },
+        {
+          "cid": 1947595,
+          "title": "Oran"
+        }
+      ]
+    },
+    {
+      "cid": 23,
+      "title": "American Samoa",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 5122050,
+          "title": "Fagatogo"
+        },
+        {
+          "cid": 1915914,
+          "title": "Pago Pago"
+        }
+      ]
+    },
+    {
+      "cid": 26,
+      "title": "Andorra",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1937062,
+          "title": "Andorra la Vella"
+        }
+      ]
+    },
+    {
+      "cid": 25,
+      "title": "Angola",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 4613700,
+          "title": "Benguela"
+        },
+        {
+          "cid": 4611703,
+          "title": "Huambo"
+        },
+        {
+          "cid": 4611584,
+          "title": "Kuito"
+        },
+        {
+          "cid": 4611516,
+          "title": "Lobito"
+        },
+        {
+          "cid": 2783,
+          "title": "Luanda"
+        },
+        {
+          "cid": 4611443,
+          "title": "Lubango"
+        },
+        {
+          "cid": 4022639,
+          "title": "M'banza Congo"
+        },
+        {
+          "cid": 4022748,
+          "title": "Malanje"
+        },
+        {
+          "cid": 4610999,
+          "title": "Namibe"
+        },
+        {
+          "cid": 4020825,
+          "title": "Uíge"
+        }
+      ]
+    },
+    {
+      "cid": 24,
+      "title": "Anguilla",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1951155,
+          "title": "The Valley"
+        }
+      ]
+    },
+    {
+      "cid": 27,
+      "title": "Antigua and Barbuda",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4696396,
+          "title": "All Saints"
+        },
+        {
+          "cid": 4696330,
+          "title": "Liberta"
+        },
+        {
+          "cid": 1924834,
+          "title": "Saint John's"
+        }
+      ]
+    },
+    {
+      "cid": 28,
+      "title": "Argentina",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 9,
+          "title": "Buenos Aires"
+        },
+        {
+          "cid": 1967466,
+          "title": "Córdoba"
+        },
+        {
+          "cid": 4637339,
+          "title": "La Plata"
+        },
+        {
+          "cid": 7641,
+          "title": "Mar del Plata"
+        },
+        {
+          "cid": 1948304,
+          "title": "Mendoza"
+        },
+        {
+          "cid": 16712,
+          "title": "Rosario"
+        },
+        {
+          "cid": 4825788,
+          "title": "Salta"
+        },
+        {
+          "cid": 16707,
+          "title": "Santa Fe"
+        }
+      ]
+    },
+    {
+      "cid": 6,
+      "title": "Armenia",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 762,
+          "title": "Yerevan"
+        },
+        {
+          "cid": 1708139,
+          "title": "Armavir"
+        },
+        {
+          "cid": 11399,
+          "title": "Artashat"
+        },
+        {
+          "cid": 4371,
+          "title": "Ashtarak"
+        },
+        {
+          "cid": 1907662,
+          "title": "Vanadzor"
+        },
+        {
+          "cid": 10138,
+          "title": "Gavar"
+        },
+        {
+          "cid": 1697,
+          "title": "Gyumri"
+        },
+        {
+          "cid": 1706171,
+          "title": "Yeghegnadzor"
+        },
+        {
+          "cid": 4640,
+          "title": "Ijevan"
+        },
+        {
+          "cid": 4765,
+          "title": "Kapan"
+        },
+        {
+          "cid": 2615,
+          "title": "Hrazdan"
+        }
+      ]
+    },
+    {
+      "cid": 29,
+      "title": "Aruba",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 15757,
+          "title": "Oranjestad"
+        }
+      ]
+    },
+    {
+      "cid": 19,
+      "title": "Australia",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 8350,
+          "title": "Adelaide"
+        },
+        {
+          "cid": 823,
+          "title": "Brisbane"
+        },
+        {
+          "cid": 20957,
+          "title": "Canberra"
+        },
+        {
+          "cid": 14179,
+          "title": "Darwin"
+        },
+        {
+          "cid": 1954441,
+          "title": "Hobart"
+        },
+        {
+          "cid": 980,
+          "title": "Melbourne"
+        },
+        {
+          "cid": 9620,
+          "title": "Perth"
+        },
+        {
+          "cid": 699,
+          "title": "Sydney"
+        }
+      ]
+    },
+    {
+      "cid": 20,
+      "title": "Austria",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1517815,
+          "title": "Eisenstadt"
+        },
+        {
+          "cid": 1708327,
+          "title": "Graz"
+        },
+        {
+          "cid": 2515,
+          "title": "Innsbruck"
+        },
+        {
+          "cid": 4225,
+          "title": "Klagenfurt"
+        },
+        {
+          "cid": 3160,
+          "title": "Linz"
+        },
+        {
+          "cid": 11981,
+          "title": "Salzburg"
+        },
+        {
+          "cid": 12058,
+          "title": "Sankt Pölten"
+        },
+        {
+          "cid": 1516534,
+          "title": "Villach"
+        },
+        {
+          "cid": 1517928,
+          "title": "Wels"
+        },
+        {
+          "cid": 198,
+          "title": "Wien"
+        }
+      ]
+    },
+    {
+      "cid": 5,
+      "title": "Azerbaijan",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1957236,
+          "title": "Baku"
+        },
+        {
+          "cid": 16793,
+          "title": "Shirvan"
+        },
+        {
+          "cid": 1941483,
+          "title": "Ganja"
+        },
+        {
+          "cid": 20863,
+          "title": "Yevlakh"
+        },
+        {
+          "cid": 1925790,
+          "title": "Lankaran"
+        },
+        {
+          "cid": 1950532,
+          "title": "Mingachevir"
+        },
+        {
+          "cid": 1924636,
+          "title": "Naftalan"
+        },
+        {
+          "cid": 1957124,
+          "title": "Nakhchivan City"
+        },
+        {
+          "cid": 1966400,
+          "title": "Stepanakert (Xankəndi)"
+        },
+        {
+          "cid": 2000911,
+          "title": "Sumqayit"
+        },
+        {
+          "cid": 1928334,
+          "title": "Shaki"
+        }
+      ]
+    },
+    {
+      "cid": 31,
+      "title": "Bahamas",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 5421261,
+          "title": "Freeport"
+        },
+        {
+          "cid": 1901378,
+          "title": "Nassau"
+        }
+      ]
+    },
+    {
+      "cid": 34,
+      "title": "Bahrain",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3138261,
+          "title": "Al Muḩarraq"
+        },
+        {
+          "cid": 3188896,
+          "title": "Ar Rifā`"
+        },
+        {
+          "cid": 1936958,
+          "title": "Manama"
+        }
+      ]
+    },
+    {
+      "cid": 32,
+      "title": "Bangladesh",
+      "citiesCount": 7,
+      "cities": [
+        {
+          "cid": 1923946,
+          "title": "Chittagong"
+        },
+        {
+          "cid": 1923185,
+          "title": "Comilla"
+        },
+        {
+          "cid": 1923714,
+          "title": "Dhaka"
+        },
+        {
+          "cid": 1923186,
+          "title": "Khulna"
+        },
+        {
+          "cid": 3447947,
+          "title": "Mymensingh"
+        },
+        {
+          "cid": 1913395,
+          "title": "Rajshahi"
+        },
+        {
+          "cid": 3447883,
+          "title": "Tongi"
+        }
+      ]
+    },
+    {
+      "cid": 33,
+      "title": "Barbados",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 1904965,
+          "title": "Bridgetown"
+        },
+        {
+          "cid": 2722525,
+          "title": "Speightstown"
+        }
+      ]
+    },
+    {
+      "cid": 3,
+      "title": "Belarus",
+      "citiesCount": 12,
+      "cities": [
+        {
+          "cid": 282,
+          "title": "Minsk"
+        },
+        {
+          "cid": 538,
+          "title": "Baranovichi"
+        },
+        {
+          "cid": 281,
+          "title": "Brest"
+        },
+        {
+          "cid": 244,
+          "title": "Vitebsk"
+        },
+        {
+          "cid": 392,
+          "title": "Gomel"
+        },
+        {
+          "cid": 2179,
+          "title": "Horki"
+        },
+        {
+          "cid": 649,
+          "title": "Grodno"
+        },
+        {
+          "cid": 467,
+          "title": "Mogilev"
+        },
+        {
+          "cid": 375,
+          "title": "Mazyr"
+        },
+        {
+          "cid": 1299,
+          "title": "Navapolatsk"
+        },
+        {
+          "cid": 610,
+          "title": "Pinsk"
+        },
+        {
+          "cid": 1107,
+          "title": "Bobrujsk"
+        }
+      ]
+    },
+    {
+      "cid": 36,
+      "title": "Belgium",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 20665,
+          "title": "Antwerpen"
+        },
+        {
+          "cid": 12903,
+          "title": "Brugge"
+        },
+        {
+          "cid": 750,
+          "title": "Bruxelles"
+        },
+        {
+          "cid": 6288,
+          "title": "Charleroi"
+        },
+        {
+          "cid": 1153,
+          "title": "Gent"
+        },
+        {
+          "cid": 9048,
+          "title": "Leuven"
+        },
+        {
+          "cid": 21601,
+          "title": "Liège"
+        },
+        {
+          "cid": 11438,
+          "title": "Mons"
+        },
+        {
+          "cid": 6152,
+          "title": "Namur"
+        }
+      ]
+    },
+    {
+      "cid": 35,
+      "title": "Belize",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 1926252,
+          "title": "Belize City"
+        },
+        {
+          "cid": 2722526,
+          "title": "Belmopan"
+        }
+      ]
+    },
+    {
+      "cid": 37,
+      "title": "Benin",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 4131429,
+          "title": "Cotonou"
+        },
+        {
+          "cid": 4131237,
+          "title": "Djougou"
+        },
+        {
+          "cid": 4129625,
+          "title": "Parakou"
+        },
+        {
+          "cid": 2722527,
+          "title": "Porto-Novo"
+        }
+      ]
+    },
+    {
+      "cid": 38,
+      "title": "Bermuda",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722528,
+          "title": "Hamilton"
+        }
+      ]
+    },
+    {
+      "cid": 47,
+      "title": "Bhutan",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3493267,
+          "title": "Phuntsholing"
+        },
+        {
+          "cid": 3493263,
+          "title": "Punākha"
+        },
+        {
+          "cid": 2722545,
+          "title": "Thimphu"
+        }
+      ]
+    },
+    {
+      "cid": 40,
+      "title": "Bolivia",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1707284,
+          "title": "Cochabamba"
+        },
+        {
+          "cid": 2722530,
+          "title": "El Alto"
+        },
+        {
+          "cid": 1944333,
+          "title": "La Paz"
+        },
+        {
+          "cid": 2722536,
+          "title": "Montero"
+        },
+        {
+          "cid": 1715190,
+          "title": "Oruro"
+        },
+        {
+          "cid": 724,
+          "title": "Potosí"
+        },
+        {
+          "cid": 1935451,
+          "title": "Santa Cruz de la Sierra"
+        },
+        {
+          "cid": 2722531,
+          "title": "Sucre"
+        },
+        {
+          "cid": 2722532,
+          "title": "Tarija"
+        },
+        {
+          "cid": 2722537,
+          "title": "Trinidad"
+        }
+      ]
+    },
+    {
+      "cid": 235,
+      "title": "Bonaire, Sint Eustatius and Saba",
+      "citiesCount": 0,
+      "cities": []
+    },
+    {
+      "cid": 41,
+      "title": "Bosnia and Herzegovina",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1713738,
+          "title": "Banja Luka"
+        },
+        {
+          "cid": 4566089,
+          "title": "Bihać"
+        },
+        {
+          "cid": 1706374,
+          "title": "Bijeljina"
+        },
+        {
+          "cid": 1954627,
+          "title": "Brčko"
+        },
+        {
+          "cid": 1706730,
+          "title": "Doboj"
+        },
+        {
+          "cid": 21202,
+          "title": "Mostar"
+        },
+        {
+          "cid": 1940433,
+          "title": "Prijedor"
+        },
+        {
+          "cid": 2203883,
+          "title": "Sarajevo"
+        },
+        {
+          "cid": 9765,
+          "title": "Tuzla"
+        },
+        {
+          "cid": 2722674,
+          "title": "Zenica"
+        }
+      ]
+    },
+    {
+      "cid": 42,
+      "title": "Botswana",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 3336309,
+          "title": "Francistown"
+        },
+        {
+          "cid": 1802417,
+          "title": "Gaborone"
+        },
+        {
+          "cid": 3336097,
+          "title": "Molepolole"
+        },
+        {
+          "cid": 3335999,
+          "title": "Selebi-Phikwe"
+        }
+      ]
+    },
+    {
+      "cid": 43,
+      "title": "Brazil",
+      "citiesCount": 14,
+      "cities": [
+        {
+          "cid": 4632375,
+          "title": "Belém"
+        },
+        {
+          "cid": 4654851,
+          "title": "Belo Horizonte"
+        },
+        {
+          "cid": 4654237,
+          "title": "Brasília"
+        },
+        {
+          "cid": 4653581,
+          "title": "Campinas"
+        },
+        {
+          "cid": 1707883,
+          "title": "Curitiba"
+        },
+        {
+          "cid": 4628266,
+          "title": "Fortaleza"
+        },
+        {
+          "cid": 1936283,
+          "title": "Goiânia"
+        },
+        {
+          "cid": 4650552,
+          "title": "Guarulhos"
+        },
+        {
+          "cid": 4743405,
+          "title": "Manaus"
+        },
+        {
+          "cid": 4645692,
+          "title": "Porto Alegre"
+        },
+        {
+          "cid": 17925,
+          "title": "Recife"
+        },
+        {
+          "cid": 1710182,
+          "title": "Rio de Janeiro"
+        },
+        {
+          "cid": 4644219,
+          "title": "Salvador"
+        },
+        {
+          "cid": 4642896,
+          "title": "São Paulo"
+        }
+      ]
+    },
+    {
+      "cid": 52,
+      "title": "British Virgin Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 14610,
+          "title": "Road Town"
+        }
+      ]
+    },
+    {
+      "cid": 44,
+      "title": "Brunei Darussalam",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 1937754,
+          "title": "Bandar Seri Begawan"
+        },
+        {
+          "cid": 3812870,
+          "title": "Bangar"
+        },
+        {
+          "cid": 3812667,
+          "title": "Kuala Belait"
+        },
+        {
+          "cid": 3812648,
+          "title": "Tutong"
+        }
+      ]
+    },
+    {
+      "cid": 39,
+      "title": "Bulgaria",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 2912,
+          "title": "Burgas"
+        },
+        {
+          "cid": 6173,
+          "title": "Dobrich"
+        },
+        {
+          "cid": 19570,
+          "title": "Pleven"
+        },
+        {
+          "cid": 3780,
+          "title": "Plovdiv"
+        },
+        {
+          "cid": 5073,
+          "title": "Ruse"
+        },
+        {
+          "cid": 20811,
+          "title": "Sliven"
+        },
+        {
+          "cid": 1913178,
+          "title": "Sofia"
+        },
+        {
+          "cid": 16354,
+          "title": "Stara Zagora"
+        },
+        {
+          "cid": 6174,
+          "title": "Varna"
+        }
+      ]
+    },
+    {
+      "cid": 45,
+      "title": "Burkina Faso",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 4116191,
+          "title": "Banfora"
+        },
+        {
+          "cid": 9284,
+          "title": "Bobo Dioulasso"
+        },
+        {
+          "cid": 4114941,
+          "title": "Dédougou"
+        },
+        {
+          "cid": 4114424,
+          "title": "Fada N'Gourma"
+        },
+        {
+          "cid": 4113748,
+          "title": "Houndé"
+        },
+        {
+          "cid": 4113351,
+          "title": "Kaya"
+        },
+        {
+          "cid": 4112795,
+          "title": "Koudougou"
+        },
+        {
+          "cid": 1515935,
+          "title": "Ouagadougou"
+        },
+        {
+          "cid": 4111113,
+          "title": "Ouahigouya"
+        },
+        {
+          "cid": 4109032,
+          "title": "Tenkodogo"
+        }
+      ]
+    },
+    {
+      "cid": 46,
+      "title": "Burundi",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 1708920,
+          "title": "Bujumbura"
+        },
+        {
+          "cid": 2722544,
+          "title": "Gitega"
+        },
+        {
+          "cid": 3203642,
+          "title": "Muyinga"
+        },
+        {
+          "cid": 3203474,
+          "title": "Ngozi"
+        }
+      ]
+    },
+    {
+      "cid": 91,
+      "title": "Cambodia",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 3820743,
+          "title": "Bătdâmbâng"
+        },
+        {
+          "cid": 1516002,
+          "title": "Phnom Penh"
+        },
+        {
+          "cid": 1710776,
+          "title": "Siĕmréab"
+        },
+        {
+          "cid": 3820658,
+          "title": "Sihanoukville"
+        }
+      ]
+    },
+    {
+      "cid": 92,
+      "title": "Cameroon",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 4019984,
+          "title": "Bafoussam"
+        },
+        {
+          "cid": 4019852,
+          "title": "Bamenda"
+        },
+        {
+          "cid": 4019550,
+          "title": "Bertoua"
+        },
+        {
+          "cid": 1516208,
+          "title": "Douala"
+        },
+        {
+          "cid": 4017724,
+          "title": "Garoua"
+        },
+        {
+          "cid": 4016187,
+          "title": "Maroua"
+        },
+        {
+          "cid": 1704770,
+          "title": "Ngaoundéré"
+        },
+        {
+          "cid": 4013892,
+          "title": "Nkongsamba"
+        },
+        {
+          "cid": 2722631,
+          "title": "Yaoundé"
+        }
+      ]
+    },
+    {
+      "cid": 10,
+      "title": "Canada",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 1475,
+          "title": "Calgary"
+        },
+        {
+          "cid": 775,
+          "title": "Edmonton"
+        },
+        {
+          "cid": 2203643,
+          "title": "Halifax"
+        },
+        {
+          "cid": 1914789,
+          "title": "Montréal"
+        },
+        {
+          "cid": 1944918,
+          "title": "Ottawa"
+        },
+        {
+          "cid": 20781,
+          "title": "Québec"
+        },
+        {
+          "cid": 273,
+          "title": "Toronto"
+        },
+        {
+          "cid": 1960291,
+          "title": "Vancouver"
+        },
+        {
+          "cid": 8954,
+          "title": "Winnipeg"
+        }
+      ]
+    },
+    {
+      "cid": 90,
+      "title": "Cape Verde",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 2722625,
+          "title": "Mindelo"
+        },
+        {
+          "cid": 2722624,
+          "title": "Praia"
+        },
+        {
+          "cid": 2722627,
+          "title": "Santa Maria"
+        }
+      ]
+    },
+    {
+      "cid": 149,
+      "title": "Cayman Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1915477,
+          "title": "George Town"
+        }
+      ]
+    },
+    {
+      "cid": 213,
+      "title": "Central African Republic",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3121142,
+          "title": "Bangui"
+        },
+        {
+          "cid": 4128014,
+          "title": "Berbérati"
+        },
+        {
+          "cid": 4127960,
+          "title": "Bimbo"
+        }
+      ]
+    },
+    {
+      "cid": 214,
+      "title": "Chad",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 3123431,
+          "title": "Abéché"
+        },
+        {
+          "cid": 3123156,
+          "title": "Am Timan"
+        },
+        {
+          "cid": 4158118,
+          "title": "Bongor"
+        },
+        {
+          "cid": 4155597,
+          "title": "Kélo"
+        },
+        {
+          "cid": 4155104,
+          "title": "Koumra"
+        },
+        {
+          "cid": 4153884,
+          "title": "Mongo"
+        },
+        {
+          "cid": 4153760,
+          "title": "Moundou"
+        },
+        {
+          "cid": 4153548,
+          "title": "N'Djamena"
+        },
+        {
+          "cid": 4153145,
+          "title": "Pala"
+        },
+        {
+          "cid": 4152889,
+          "title": "Sarh"
+        }
+      ]
+    },
+    {
+      "cid": 216,
+      "title": "Chile",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1957555,
+          "title": "Concepción"
+        },
+        {
+          "cid": 1972419,
+          "title": "Santiago"
+        },
+        {
+          "cid": 1712714,
+          "title": "Valparaíso"
+        }
+      ]
+    },
+    {
+      "cid": 97,
+      "title": "China",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 21941,
+          "title": "Beijing"
+        },
+        {
+          "cid": 1517238,
+          "title": "Changchun"
+        },
+        {
+          "cid": 3514,
+          "title": "Chengdu"
+        },
+        {
+          "cid": 3808743,
+          "title": "Chongqing"
+        },
+        {
+          "cid": 1906578,
+          "title": "Guangzhou"
+        },
+        {
+          "cid": 1450,
+          "title": "Harbin"
+        },
+        {
+          "cid": 1945830,
+          "title": "Shanghai"
+        },
+        {
+          "cid": 10685,
+          "title": "Shenyang"
+        },
+        {
+          "cid": 3543,
+          "title": "Tianjin"
+        },
+        {
+          "cid": 1908844,
+          "title": "Wuhan"
+        },
+        {
+          "cid": 1515802,
+          "title": "Xi'an"
+        }
+      ]
+    },
+    {
+      "cid": 98,
+      "title": "Colombia",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 2722651,
+          "title": "Barranquilla"
+        },
+        {
+          "cid": 2722648,
+          "title": "Bogotá"
+        },
+        {
+          "cid": 20024,
+          "title": "Bucaramanga"
+        },
+        {
+          "cid": 1906105,
+          "title": "Cali"
+        },
+        {
+          "cid": 2722653,
+          "title": "Cartagena de Indias"
+        },
+        {
+          "cid": 4756584,
+          "title": "Cúcuta"
+        },
+        {
+          "cid": 2722649,
+          "title": "Medellín"
+        },
+        {
+          "cid": 4748404,
+          "title": "Pereira"
+        }
+      ]
+    },
+    {
+      "cid": 99,
+      "title": "Comoros",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 3329766,
+          "title": "Fomboni"
+        },
+        {
+          "cid": 1944568,
+          "title": "Moroni"
+        }
+      ]
+    },
+    {
+      "cid": 100,
+      "title": "Congo",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 20994,
+          "title": "Brazzaville"
+        },
+        {
+          "cid": 4035711,
+          "title": "Dolisie"
+        },
+        {
+          "cid": 4034025,
+          "title": "Pointe-Noire"
+        }
+      ]
+    },
+    {
+      "cid": 101,
+      "title": "Congo, Democratic Republic",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 2722660,
+          "title": "Boma"
+        },
+        {
+          "cid": 2722661,
+          "title": "Bukavu"
+        },
+        {
+          "cid": 3108552,
+          "title": "Kananga"
+        },
+        {
+          "cid": 2722659,
+          "title": "Kinshasa"
+        },
+        {
+          "cid": 3106965,
+          "title": "Kisangani"
+        },
+        {
+          "cid": 3330411,
+          "title": "Kolwezi"
+        },
+        {
+          "cid": 3330384,
+          "title": "Likasi"
+        },
+        {
+          "cid": 3330368,
+          "title": "Lubumbashi"
+        },
+        {
+          "cid": 3104470,
+          "title": "Mbuji-Mayi"
+        },
+        {
+          "cid": 3100876,
+          "title": "Tshikapa"
+        }
+      ]
+    },
+    {
+      "cid": 150,
+      "title": "Cook Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1902739,
+          "title": "Avarua"
+        }
+      ]
+    },
+    {
+      "cid": 102,
+      "title": "Costa Rica",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 4722946,
+          "title": "Cartago"
+        },
+        {
+          "cid": 4722255,
+          "title": "Limón"
+        },
+        {
+          "cid": 2722664,
+          "title": "Puntarenas"
+        },
+        {
+          "cid": 3011,
+          "title": "San José"
+        }
+      ]
+    },
+    {
+      "cid": 212,
+      "title": "Croatia",
+      "citiesCount": 12,
+      "cities": [
+        {
+          "cid": 1518205,
+          "title": "Dubrovnik"
+        },
+        {
+          "cid": 1931924,
+          "title": "Makarska"
+        },
+        {
+          "cid": 1902190,
+          "title": "Opatija"
+        },
+        {
+          "cid": 4558828,
+          "title": "Osijek"
+        },
+        {
+          "cid": 18765,
+          "title": "Poreč"
+        },
+        {
+          "cid": 1907078,
+          "title": "Pula"
+        },
+        {
+          "cid": 832,
+          "title": "Rijeka"
+        },
+        {
+          "cid": 1715427,
+          "title": "Rovinj"
+        },
+        {
+          "cid": 1939585,
+          "title": "Split"
+        },
+        {
+          "cid": 1713179,
+          "title": "Trogir"
+        },
+        {
+          "cid": 1518705,
+          "title": "Zadar"
+        },
+        {
+          "cid": 3173,
+          "title": "Zagreb"
+        }
+      ]
+    },
+    {
+      "cid": 104,
+      "title": "Cuba",
+      "citiesCount": 12,
+      "cities": [
+        {
+          "cid": 4694089,
+          "title": "Bayamo"
+        },
+        {
+          "cid": 4693778,
+          "title": "Camagüey"
+        },
+        {
+          "cid": 4693402,
+          "title": "Ciego de Ávila"
+        },
+        {
+          "cid": 4693389,
+          "title": "Cienfuegos"
+        },
+        {
+          "cid": 4691846,
+          "title": "Guantánamo"
+        },
+        {
+          "cid": 1917808,
+          "title": "Habana"
+        },
+        {
+          "cid": 4691685,
+          "title": "Holguín"
+        },
+        {
+          "cid": 4690104,
+          "title": "Las Tunas"
+        },
+        {
+          "cid": 4689354,
+          "title": "Matanzas"
+        },
+        {
+          "cid": 4688637,
+          "title": "Pinar del Río"
+        },
+        {
+          "cid": 4687098,
+          "title": "Santa Clara"
+        },
+        {
+          "cid": 1938273,
+          "title": "Santiago de Cuba"
+        }
+      ]
+    },
+    {
+      "cid": 138,
+      "title": "Curaçao",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722647,
+          "title": "Willemstad"
+        }
+      ]
+    },
+    {
+      "cid": 95,
+      "title": "Cyprus",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 1910906,
+          "title": "Famagusta"
+        },
+        {
+          "cid": 1516966,
+          "title": "Kyrenia"
+        },
+        {
+          "cid": 1945840,
+          "title": "Larnaca"
+        },
+        {
+          "cid": 1904029,
+          "title": "Limassol"
+        },
+        {
+          "cid": 1916384,
+          "title": "Nicosia"
+        },
+        {
+          "cid": 3812,
+          "title": "Paphos"
+        }
+      ]
+    },
+    {
+      "cid": 215,
+      "title": "Czech Republic",
+      "citiesCount": 13,
+      "cities": [
+        {
+          "cid": 1920563,
+          "title": "Brno"
+        },
+        {
+          "cid": 1908943,
+          "title": "České Budějovice"
+        },
+        {
+          "cid": 1947530,
+          "title": "Františkovy Lázně"
+        },
+        {
+          "cid": 1709526,
+          "title": "Hradec Králové"
+        },
+        {
+          "cid": 1957282,
+          "title": "Karlovy Vary"
+        },
+        {
+          "cid": 1969283,
+          "title": "Liberec"
+        },
+        {
+          "cid": 9747,
+          "title": "Mariánské Lázně"
+        },
+        {
+          "cid": 1925708,
+          "title": "Olomouc"
+        },
+        {
+          "cid": 1942531,
+          "title": "Ostrava"
+        },
+        {
+          "cid": 2001218,
+          "title": "Pardubice"
+        },
+        {
+          "cid": 1908937,
+          "title": "Plzeň"
+        },
+        {
+          "cid": 1933924,
+          "title": "Praha"
+        },
+        {
+          "cid": 1908940,
+          "title": "Ústí nad Labem"
+        }
+      ]
+    },
+    {
+      "cid": 103,
+      "title": "Côte d`Ivoire",
+      "citiesCount": 7,
+      "cities": [
+        {
+          "cid": 1971953,
+          "title": "Abidjan"
+        },
+        {
+          "cid": 4056718,
+          "title": "Bouaké"
+        },
+        {
+          "cid": 4056417,
+          "title": "Daloa"
+        },
+        {
+          "cid": 4056006,
+          "title": "Divo"
+        },
+        {
+          "cid": 4053938,
+          "title": "Korhogo"
+        },
+        {
+          "cid": 2722665,
+          "title": "San Pedro"
+        },
+        {
+          "cid": 2722667,
+          "title": "Yamoussoukro"
+        }
+      ]
+    },
+    {
+      "cid": 73,
+      "title": "Denmark",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 1911487,
+          "title": "Aalborg"
+        },
+        {
+          "cid": 1922703,
+          "title": "Aarhus"
+        },
+        {
+          "cid": 307,
+          "title": "Copenhagen"
+        },
+        {
+          "cid": 1918276,
+          "title": "Odense"
+        }
+      ]
+    },
+    {
+      "cid": 231,
+      "title": "Djibouti",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3113850,
+          "title": "Djibouti"
+        },
+        {
+          "cid": 3113835,
+          "title": "Tadjoura"
+        },
+        {
+          "cid": 3113862,
+          "title": "`Ali Sabieh"
+        }
+      ]
+    },
+    {
+      "cid": 74,
+      "title": "Dominica",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 3151,
+          "title": "Roseau"
+        }
+      ]
+    },
+    {
+      "cid": 75,
+      "title": "Dominican Republic",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 4662553,
+          "title": "Santiago de los Caballeros"
+        },
+        {
+          "cid": 1938443,
+          "title": "Santo Domingo"
+        }
+      ]
+    },
+    {
+      "cid": 54,
+      "title": "East Timor",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 2722552,
+          "title": "Baucau"
+        },
+        {
+          "cid": 2722553,
+          "title": "Dili"
+        },
+        {
+          "cid": 2722557,
+          "title": "Lospalos"
+        }
+      ]
+    },
+    {
+      "cid": 221,
+      "title": "Ecuador",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 2211003,
+          "title": "Cuenca"
+        },
+        {
+          "cid": 4741279,
+          "title": "Durán"
+        },
+        {
+          "cid": 17578,
+          "title": "Guayaquil"
+        },
+        {
+          "cid": 1705847,
+          "title": "Machala"
+        },
+        {
+          "cid": 1328,
+          "title": "Quito"
+        },
+        {
+          "cid": 4736731,
+          "title": "Santo Domingo de los Colorados"
+        }
+      ]
+    },
+    {
+      "cid": 76,
+      "title": "Egypt",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1924116,
+          "title": "Alexandria"
+        },
+        {
+          "cid": 1958117,
+          "title": "Cairo"
+        },
+        {
+          "cid": 2722450,
+          "title": "El-Mahalla El-Kubra"
+        },
+        {
+          "cid": 2722414,
+          "title": "Giza"
+        },
+        {
+          "cid": 1961332,
+          "title": "Hurghada"
+        },
+        {
+          "cid": 1933295,
+          "title": "Luxor"
+        },
+        {
+          "cid": 1922100,
+          "title": "Port Said"
+        },
+        {
+          "cid": 1927116,
+          "title": "Sharm el-Sheikh"
+        },
+        {
+          "cid": 2722451,
+          "title": "Shubra El-Kheima"
+        },
+        {
+          "cid": 2722418,
+          "title": "Suez"
+        }
+      ]
+    },
+    {
+      "cid": 166,
+      "title": "El Salvador",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 15676,
+          "title": "San Salvador"
+        },
+        {
+          "cid": 4698491,
+          "title": "Santa Ana"
+        }
+      ]
+    },
+    {
+      "cid": 222,
+      "title": "Equatorial Guinea",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 1706311,
+          "title": "Bata"
+        },
+        {
+          "cid": 4069782,
+          "title": "Malabo"
+        }
+      ]
+    },
+    {
+      "cid": 223,
+      "title": "Eritrea",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 2722566,
+          "title": "Asmara"
+        },
+        {
+          "cid": 3170759,
+          "title": "Dekemhāre"
+        },
+        {
+          "cid": 3167365,
+          "title": "Keren"
+        }
+      ]
+    },
+    {
+      "cid": 14,
+      "title": "Estonia",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 220,
+          "title": "Tallinn"
+        },
+        {
+          "cid": 1803186,
+          "title": "Jõhvi"
+        },
+        {
+          "cid": 1803188,
+          "title": "Kohtla-Järve "
+        },
+        {
+          "cid": 1803164,
+          "title": "Maardu"
+        },
+        {
+          "cid": 1803194,
+          "title": "Narva"
+        },
+        {
+          "cid": 1803282,
+          "title": "Pärnu"
+        },
+        {
+          "cid": 1803196,
+          "title": "Sillamäe"
+        },
+        {
+          "cid": 1803337,
+          "title": "Tartu"
+        },
+        {
+          "cid": 1803370,
+          "title": "Viljandi"
+        }
+      ]
+    },
+    {
+      "cid": 224,
+      "title": "Ethiopia",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 3174085,
+          "title": "Ādama"
+        },
+        {
+          "cid": 1967489,
+          "title": "Addis Ababa"
+        },
+        {
+          "cid": 3172748,
+          "title": "Āwasa"
+        },
+        {
+          "cid": 3172607,
+          "title": "Bahir Dar"
+        },
+        {
+          "cid": 3170347,
+          "title": "Dirē Dawa"
+        },
+        {
+          "cid": 3168904,
+          "title": "Gonder"
+        },
+        {
+          "cid": 3168364,
+          "title": "Hārer"
+        },
+        {
+          "cid": 3167672,
+          "title": "Jijiga"
+        },
+        {
+          "cid": 3167426,
+          "title": "Kombolcha"
+        },
+        {
+          "cid": 3166228,
+          "title": "Mek'elē"
+        }
+      ]
+    },
+    {
+      "cid": 208,
+      "title": "Falkland Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 4636510,
+          "title": "Stanley"
+        }
+      ]
+    },
+    {
+      "cid": 204,
+      "title": "Faroe Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1517967,
+          "title": "Tórshavn"
+        }
+      ]
+    },
+    {
+      "cid": 205,
+      "title": "Fiji",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 1715142,
+          "title": "Lautoka"
+        },
+        {
+          "cid": 1906979,
+          "title": "Suva"
+        }
+      ]
+    },
+    {
+      "cid": 207,
+      "title": "Finland",
+      "citiesCount": 15,
+      "cities": [
+        {
+          "cid": 5267,
+          "title": "Espoo"
+        },
+        {
+          "cid": 2300827,
+          "title": "Hämeenlinna"
+        },
+        {
+          "cid": 1904869,
+          "title": "Helsinki"
+        },
+        {
+          "cid": 1909372,
+          "title": "Imatra"
+        },
+        {
+          "cid": 1707024,
+          "title": "Joensuu"
+        },
+        {
+          "cid": 1703182,
+          "title": "Jyväskylä"
+        },
+        {
+          "cid": 1707187,
+          "title": "Kotka"
+        },
+        {
+          "cid": 1707232,
+          "title": "Lahti"
+        },
+        {
+          "cid": 1970123,
+          "title": "Lappeenranta"
+        },
+        {
+          "cid": 10159,
+          "title": "Oulu"
+        },
+        {
+          "cid": 2389,
+          "title": "Rovaniemi"
+        },
+        {
+          "cid": 1908252,
+          "title": "Tampere"
+        },
+        {
+          "cid": 221,
+          "title": "Turku"
+        },
+        {
+          "cid": 4356,
+          "title": "Vaasa"
+        },
+        {
+          "cid": 1951581,
+          "title": "Vantaa"
+        }
+      ]
+    },
+    {
+      "cid": 209,
+      "title": "France",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 4725,
+          "title": "Bordeaux"
+        },
+        {
+          "cid": 1969033,
+          "title": "Lille"
+        },
+        {
+          "cid": 320,
+          "title": "Lyon"
+        },
+        {
+          "cid": 1903827,
+          "title": "Marseille"
+        },
+        {
+          "cid": 2134,
+          "title": "Montpellier"
+        },
+        {
+          "cid": 4943,
+          "title": "Nantes"
+        },
+        {
+          "cid": 1906247,
+          "title": "Nice"
+        },
+        {
+          "cid": 1937764,
+          "title": "Paris"
+        },
+        {
+          "cid": 1902227,
+          "title": "Strasbourg"
+        },
+        {
+          "cid": 1702,
+          "title": "Toulouse"
+        }
+      ]
+    },
+    {
+      "cid": 210,
+      "title": "French Guiana",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 5326042,
+          "title": "Cayenne"
+        },
+        {
+          "cid": 1950563,
+          "title": "Kourou"
+        },
+        {
+          "cid": 5326049,
+          "title": "Matoury"
+        }
+      ]
+    },
+    {
+      "cid": 211,
+      "title": "French Polynesia",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 4905067,
+          "title": "Papeete"
+        }
+      ]
+    },
+    {
+      "cid": 56,
+      "title": "Gabon",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4134854,
+          "title": "Franceville"
+        },
+        {
+          "cid": 2722567,
+          "title": "Libreville"
+        },
+        {
+          "cid": 4132567,
+          "title": "Port-Gentil"
+        }
+      ]
+    },
+    {
+      "cid": 59,
+      "title": "Gambia",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4145579,
+          "title": "Bakau"
+        },
+        {
+          "cid": 2722575,
+          "title": "Banjul"
+        },
+        {
+          "cid": 1911584,
+          "title": "Serekunda"
+        }
+      ]
+    },
+    {
+      "cid": 7,
+      "title": "Georgia",
+      "citiesCount": 15,
+      "cities": [
+        {
+          "cid": 1965294,
+          "title": "Tbilisi"
+        },
+        {
+          "cid": 1935483,
+          "title": "Ambrolauri"
+        },
+        {
+          "cid": 1958478,
+          "title": "Akhaltsikhe"
+        },
+        {
+          "cid": 21032,
+          "title": "Batumi"
+        },
+        {
+          "cid": 1961775,
+          "title": "Gagra"
+        },
+        {
+          "cid": 1968340,
+          "title": "Gori"
+        },
+        {
+          "cid": 1951841,
+          "title": "Zugdidi"
+        },
+        {
+          "cid": 3631,
+          "title": "Kutaisi"
+        },
+        {
+          "cid": 1802445,
+          "title": "Mtskheta"
+        },
+        {
+          "cid": 1901793,
+          "title": "Ozurgeti"
+        },
+        {
+          "cid": 1967003,
+          "title": "Poti"
+        },
+        {
+          "cid": 1953178,
+          "title": "Rustavi"
+        },
+        {
+          "cid": 1969977,
+          "title": "Sukhumi"
+        },
+        {
+          "cid": 14445,
+          "title": "Telavi"
+        },
+        {
+          "cid": 21466,
+          "title": "Chiatura"
+        }
+      ]
+    },
+    {
+      "cid": 65,
+      "title": "Germany",
+      "citiesCount": 13,
+      "cities": [
+        {
+          "cid": 458,
+          "title": "Berlin"
+        },
+        {
+          "cid": 216,
+          "title": "Bonn"
+        },
+        {
+          "cid": 20860,
+          "title": "Bremen"
+        },
+        {
+          "cid": 1711829,
+          "title": "Dortmund"
+        },
+        {
+          "cid": 21118,
+          "title": "Düsseldorf"
+        },
+        {
+          "cid": 691,
+          "title": "Essen"
+        },
+        {
+          "cid": 219,
+          "title": "Frankfurt am Main"
+        },
+        {
+          "cid": 635,
+          "title": "Hamburg"
+        },
+        {
+          "cid": 1964189,
+          "title": "Hannover"
+        },
+        {
+          "cid": 1711731,
+          "title": "Köln"
+        },
+        {
+          "cid": 263,
+          "title": "Leipzig"
+        },
+        {
+          "cid": 1951986,
+          "title": "München"
+        },
+        {
+          "cid": 4183,
+          "title": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "cid": 60,
+      "title": "Ghana",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 5105,
+          "title": "Accra"
+        },
+        {
+          "cid": 4066462,
+          "title": "Ashaiman"
+        },
+        {
+          "cid": 2722581,
+          "title": "Cape Coast"
+        },
+        {
+          "cid": 2722576,
+          "title": "Kumasi"
+        },
+        {
+          "cid": 2722582,
+          "title": "Obuasi"
+        },
+        {
+          "cid": 2722578,
+          "title": "Sekondi"
+        },
+        {
+          "cid": 2722577,
+          "title": "Tamale"
+        },
+        {
+          "cid": 2722579,
+          "title": "Tema"
+        },
+        {
+          "cid": 4059226,
+          "title": "Teshi"
+        }
+      ]
+    },
+    {
+      "cid": 66,
+      "title": "Gibraltar",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2203658,
+          "title": "Gibraltar"
+        }
+      ]
+    },
+    {
+      "cid": 71,
+      "title": "Greece",
+      "citiesCount": 7,
+      "cities": [
+        {
+          "cid": 1515634,
+          "title": "Athens"
+        },
+        {
+          "cid": 1713650,
+          "title": "Heraklion"
+        },
+        {
+          "cid": 1917572,
+          "title": "Kallithea"
+        },
+        {
+          "cid": 1964316,
+          "title": "Larissa"
+        },
+        {
+          "cid": 1963796,
+          "title": "Patras"
+        },
+        {
+          "cid": 1919348,
+          "title": "Piraeus"
+        },
+        {
+          "cid": 1908458,
+          "title": "Thessaloniki"
+        }
+      ]
+    },
+    {
+      "cid": 70,
+      "title": "Greenland",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722592,
+          "title": "Nuuk"
+        }
+      ]
+    },
+    {
+      "cid": 69,
+      "title": "Grenada",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4697504,
+          "title": "Gouyave"
+        },
+        {
+          "cid": 4697495,
+          "title": "Grenville"
+        },
+        {
+          "cid": 15130,
+          "title": "Saint George's"
+        }
+      ]
+    },
+    {
+      "cid": 61,
+      "title": "Guadeloupe",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 2722583,
+          "title": "Basse-Terre"
+        },
+        {
+          "cid": 2722584,
+          "title": "Pointe-à-Pitre"
+        }
+      ]
+    },
+    {
+      "cid": 72,
+      "title": "Guam",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 2722594,
+          "title": "Dededo"
+        },
+        {
+          "cid": 2722593,
+          "title": "Hagåtña"
+        }
+      ]
+    },
+    {
+      "cid": 62,
+      "title": "Guatemala",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4705590,
+          "title": "Escuintla"
+        },
+        {
+          "cid": 4706718,
+          "title": "Guatemala City"
+        },
+        {
+          "cid": 4703323,
+          "title": "Quetzaltenango"
+        }
+      ]
+    },
+    {
+      "cid": 236,
+      "title": "Guernsey",
+      "citiesCount": 0,
+      "cities": []
+    },
+    {
+      "cid": 63,
+      "title": "Guinea",
+      "citiesCount": 5,
+      "cities": [
+        {
+          "cid": 4151428,
+          "title": "Boké"
+        },
+        {
+          "cid": 1518517,
+          "title": "Conakry"
+        },
+        {
+          "cid": 1715708,
+          "title": "Kankan"
+        },
+        {
+          "cid": 4149182,
+          "title": "Kindia"
+        },
+        {
+          "cid": 2202114,
+          "title": "Nzérékoré"
+        }
+      ]
+    },
+    {
+      "cid": 64,
+      "title": "Guinea-Bissau",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4124398,
+          "title": "Bafatá"
+        },
+        {
+          "cid": 1703592,
+          "title": "Bissau"
+        },
+        {
+          "cid": 4122829,
+          "title": "Gabú"
+        }
+      ]
+    },
+    {
+      "cid": 58,
+      "title": "Guyana",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1905134,
+          "title": "Georgetown"
+        },
+        {
+          "cid": 4618156,
+          "title": "Linden"
+        },
+        {
+          "cid": 4618101,
+          "title": "New Amsterdam"
+        }
+      ]
+    },
+    {
+      "cid": 57,
+      "title": "Haiti",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 2722570,
+          "title": "Cap-Haïtien"
+        },
+        {
+          "cid": 2722568,
+          "title": "Carrefour"
+        },
+        {
+          "cid": 2722569,
+          "title": "Delmas"
+        },
+        {
+          "cid": 2722572,
+          "title": "Gonaïves"
+        },
+        {
+          "cid": 2722574,
+          "title": "Les Cayes"
+        },
+        {
+          "cid": 2722571,
+          "title": "Pétionville"
+        },
+        {
+          "cid": 12045,
+          "title": "Port-au-Prince"
+        },
+        {
+          "cid": 2722573,
+          "title": "Saint-Marc"
+        }
+      ]
+    },
+    {
+      "cid": 67,
+      "title": "Honduras",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 2722591,
+          "title": "Choluteca"
+        },
+        {
+          "cid": 2722587,
+          "title": "La Ceiba"
+        },
+        {
+          "cid": 2722588,
+          "title": "Puerto Cortés"
+        },
+        {
+          "cid": 1919616,
+          "title": "San Pedro Sula"
+        },
+        {
+          "cid": 429,
+          "title": "Tegucigalpa"
+        },
+        {
+          "cid": 2722589,
+          "title": "Tela"
+        }
+      ]
+    },
+    {
+      "cid": 68,
+      "title": "Hong Kong",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1964269,
+          "title": "Hong Kong"
+        }
+      ]
+    },
+    {
+      "cid": 50,
+      "title": "Hungary",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1905655,
+          "title": "Budapest"
+        },
+        {
+          "cid": 21233,
+          "title": "Debrecen"
+        },
+        {
+          "cid": 1707464,
+          "title": "Győr"
+        },
+        {
+          "cid": 9733,
+          "title": "Kecskemét"
+        },
+        {
+          "cid": 1067,
+          "title": "Miskolc"
+        },
+        {
+          "cid": 2209344,
+          "title": "Nyíregyháza"
+        },
+        {
+          "cid": 20022,
+          "title": "Pécs"
+        },
+        {
+          "cid": 1704962,
+          "title": "Szeged"
+        },
+        {
+          "cid": 1976180,
+          "title": "Székesfehérvár"
+        },
+        {
+          "cid": 14745,
+          "title": "Szolnok"
+        },
+        {
+          "cid": 1708002,
+          "title": "Szombathely"
+        }
+      ]
+    },
+    {
+      "cid": 86,
+      "title": "Iceland",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4636106,
+          "title": "Hafnarfjörður"
+        },
+        {
+          "cid": 1704204,
+          "title": "Kópavogur"
+        },
+        {
+          "cid": 2182,
+          "title": "Reykjavík"
+        }
+      ]
+    },
+    {
+      "cid": 80,
+      "title": "India",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1518828,
+          "title": "Ahmedabad"
+        },
+        {
+          "cid": 9163,
+          "title": "Bangalore"
+        },
+        {
+          "cid": 1928287,
+          "title": "Chennai"
+        },
+        {
+          "cid": 437,
+          "title": "Delhi"
+        },
+        {
+          "cid": 1922004,
+          "title": "Hyderābād"
+        },
+        {
+          "cid": 3505366,
+          "title": "Kānpur"
+        },
+        {
+          "cid": 1969,
+          "title": "Kolkata"
+        },
+        {
+          "cid": 3502789,
+          "title": "Lucknow"
+        },
+        {
+          "cid": 1715378,
+          "title": "Mumbai"
+        },
+        {
+          "cid": 1902842,
+          "title": "New Delhi"
+        },
+        {
+          "cid": 1908041,
+          "title": "Pune"
+        }
+      ]
+    },
+    {
+      "cid": 81,
+      "title": "Indonesia",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 3696511,
+          "title": "Bandar Lampung"
+        },
+        {
+          "cid": 3913331,
+          "title": "Bandung"
+        },
+        {
+          "cid": 1952381,
+          "title": "Jakarta"
+        },
+        {
+          "cid": 3695338,
+          "title": "Makassar"
+        },
+        {
+          "cid": 3475852,
+          "title": "Medan"
+        },
+        {
+          "cid": 3701289,
+          "title": "Palembang"
+        },
+        {
+          "cid": 5179494,
+          "title": "Semarang"
+        },
+        {
+          "cid": 1904426,
+          "title": "Surabaya"
+        },
+        {
+          "cid": 3694420,
+          "title": "Yogyakarta"
+        }
+      ]
+    },
+    {
+      "cid": 84,
+      "title": "Iran",
+      "citiesCount": 25,
+      "cities": [
+        {
+          "cid": 3077848,
+          "title": "Ahvāz"
+        },
+        {
+          "cid": 3076805,
+          "title": "Arāk"
+        },
+        {
+          "cid": 3076774,
+          "title": "Ardabīl"
+        },
+        {
+          "cid": 1939455,
+          "title": "Bandar ‘Abbās"
+        },
+        {
+          "cid": 3074291,
+          "title": "Būshehr"
+        },
+        {
+          "cid": 2722617,
+          "title": "Eşfahān"
+        },
+        {
+          "cid": 3069054,
+          "title": "Gorgān"
+        },
+        {
+          "cid": 3068502,
+          "title": "Hamadān"
+        },
+        {
+          "cid": 3065825,
+          "title": "Karaj"
+        },
+        {
+          "cid": 3065450,
+          "title": "Kermān"
+        },
+        {
+          "cid": 3065444,
+          "title": "Kermānshāh"
+        },
+        {
+          "cid": 3064437,
+          "title": "Kīsh"
+        },
+        {
+          "cid": 2722616,
+          "title": "Mashhad"
+        },
+        {
+          "cid": 3058937,
+          "title": "Qazvīn"
+        },
+        {
+          "cid": 3058700,
+          "title": "Qom"
+        },
+        {
+          "cid": 3058356,
+          "title": "Rasht"
+        },
+        {
+          "cid": 3057470,
+          "title": "Sanandaj"
+        },
+        {
+          "cid": 3001019,
+          "title": "Sarī"
+        },
+        {
+          "cid": 3055642,
+          "title": "Shīrāz"
+        },
+        {
+          "cid": 3054806,
+          "title": "Tabrīz"
+        },
+        {
+          "cid": 1933202,
+          "title": "Tehran"
+        },
+        {
+          "cid": 3060634,
+          "title": "Urmia"
+        },
+        {
+          "cid": 3053416,
+          "title": "Yazd"
+        },
+        {
+          "cid": 3429348,
+          "title": "Zāhedān"
+        },
+        {
+          "cid": 3053118,
+          "title": "Zanjān"
+        }
+      ]
+    },
+    {
+      "cid": 83,
+      "title": "Iraq",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 3049557,
+          "title": "Baghdad"
+        },
+        {
+          "cid": 1967396,
+          "title": "Basra"
+        },
+        {
+          "cid": 3047735,
+          "title": "Erbil"
+        },
+        {
+          "cid": 3050445,
+          "title": "Fallujah"
+        },
+        {
+          "cid": 2211225,
+          "title": "Kirkuk"
+        },
+        {
+          "cid": 3050162,
+          "title": "Mosul"
+        },
+        {
+          "cid": 2722615,
+          "title": "Najaf"
+        },
+        {
+          "cid": 3049922,
+          "title": "Ramadi"
+        },
+        {
+          "cid": 3049744,
+          "title": "Sulaymaniyah"
+        }
+      ]
+    },
+    {
+      "cid": 85,
+      "title": "Ireland",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 20602,
+          "title": "Cork"
+        },
+        {
+          "cid": 21050,
+          "title": "Dublin"
+        },
+        {
+          "cid": 4470,
+          "title": "Galway"
+        },
+        {
+          "cid": 11194,
+          "title": "Limerick"
+        }
+      ]
+    },
+    {
+      "cid": 147,
+      "title": "Isle of Man",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722644,
+          "title": "Douglas"
+        }
+      ]
+    },
+    {
+      "cid": 8,
+      "title": "Israel",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 2583,
+          "title": "Jerusalem"
+        },
+        {
+          "cid": 1706044,
+          "title": "Ashdod"
+        },
+        {
+          "cid": 4432,
+          "title": "Ashkelon"
+        },
+        {
+          "cid": 6963,
+          "title": "Beersheba"
+        },
+        {
+          "cid": 22427,
+          "title": "Netanya"
+        },
+        {
+          "cid": 1515878,
+          "title": "Petah Tikva"
+        },
+        {
+          "cid": 798,
+          "title": "Rehovot"
+        },
+        {
+          "cid": 1515615,
+          "title": "Rishon LeZion"
+        },
+        {
+          "cid": 3296,
+          "title": "Tel Aviv"
+        },
+        {
+          "cid": 402,
+          "title": "Haifa"
+        }
+      ]
+    },
+    {
+      "cid": 88,
+      "title": "Italy",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 17517,
+          "title": "Bari"
+        },
+        {
+          "cid": 1916066,
+          "title": "Bologna"
+        },
+        {
+          "cid": 1901719,
+          "title": "Firenze"
+        },
+        {
+          "cid": 5215,
+          "title": "Genova"
+        },
+        {
+          "cid": 1955477,
+          "title": "Milano"
+        },
+        {
+          "cid": 1517236,
+          "title": "Napoli"
+        },
+        {
+          "cid": 1968700,
+          "title": "Palermo"
+        },
+        {
+          "cid": 1932468,
+          "title": "Roma"
+        },
+        {
+          "cid": 16,
+          "title": "Torino"
+        },
+        {
+          "cid": 1976786,
+          "title": "Venezia"
+        },
+        {
+          "cid": 20833,
+          "title": "Verona"
+        }
+      ]
+    },
+    {
+      "cid": 228,
+      "title": "Jamaica",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 1704691,
+          "title": "Kingston"
+        },
+        {
+          "cid": 1516109,
+          "title": "Montego Bay"
+        },
+        {
+          "cid": 4660689,
+          "title": "Portmore"
+        },
+        {
+          "cid": 4660389,
+          "title": "Spanish Town"
+        }
+      ]
+    },
+    {
+      "cid": 229,
+      "title": "Japan",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 21910,
+          "title": "Fukuoka"
+        },
+        {
+          "cid": 1905639,
+          "title": "Kawasaki"
+        },
+        {
+          "cid": 10062,
+          "title": "Kōbe"
+        },
+        {
+          "cid": 3837115,
+          "title": "Kyōto"
+        },
+        {
+          "cid": 2540,
+          "title": "Nagoya"
+        },
+        {
+          "cid": 21686,
+          "title": "Ōsaka"
+        },
+        {
+          "cid": 5421571,
+          "title": "Saitama"
+        },
+        {
+          "cid": 1705677,
+          "title": "Sapporo"
+        },
+        {
+          "cid": 1703289,
+          "title": "Sendai"
+        },
+        {
+          "cid": 1914764,
+          "title": "Tokyo"
+        },
+        {
+          "cid": 1908812,
+          "title": "Yokohama"
+        }
+      ]
+    },
+    {
+      "cid": 237,
+      "title": "Jersey",
+      "citiesCount": 0,
+      "cities": []
+    },
+    {
+      "cid": 82,
+      "title": "Jordan",
+      "citiesCount": 5,
+      "cities": [
+        {
+          "cid": 1706331,
+          "title": "Amman"
+        },
+        {
+          "cid": 3124085,
+          "title": "Aqabah"
+        },
+        {
+          "cid": 3123763,
+          "title": "Irbid"
+        },
+        {
+          "cid": 2500396,
+          "title": "Madaba"
+        },
+        {
+          "cid": 3123854,
+          "title": "Zarqa"
+        }
+      ]
+    },
+    {
+      "cid": 4,
+      "title": "Kazakhstan",
+      "citiesCount": 15,
+      "cities": [
+        {
+          "cid": 14,
+          "title": "Astana"
+        },
+        {
+          "cid": 183,
+          "title": "Almaty"
+        },
+        {
+          "cid": 1006,
+          "title": "Aktau"
+        },
+        {
+          "cid": 1517767,
+          "title": "Aktobe"
+        },
+        {
+          "cid": 2131,
+          "title": "Atyrau"
+        },
+        {
+          "cid": 173,
+          "title": "Baikonur"
+        },
+        {
+          "cid": 284,
+          "title": "Karaganda"
+        },
+        {
+          "cid": 906,
+          "title": "Kokshetau"
+        },
+        {
+          "cid": 536,
+          "title": "Pavlodar"
+        },
+        {
+          "cid": 7279,
+          "title": "Petropavlovsk"
+        },
+        {
+          "cid": 361,
+          "title": "Semey "
+        },
+        {
+          "cid": 730,
+          "title": "Taraz"
+        },
+        {
+          "cid": 706,
+          "title": "Oral"
+        },
+        {
+          "cid": 205,
+          "title": "Oskemen"
+        },
+        {
+          "cid": 3193,
+          "title": "Shymkent"
+        }
+      ]
+    },
+    {
+      "cid": 94,
+      "title": "Kenya",
+      "citiesCount": 5,
+      "cities": [
+        {
+          "cid": 2722642,
+          "title": "Eldoret"
+        },
+        {
+          "cid": 21947,
+          "title": "Kisumu"
+        },
+        {
+          "cid": 2722635,
+          "title": "Mombasa"
+        },
+        {
+          "cid": 2722634,
+          "title": "Nairobi"
+        },
+        {
+          "cid": 2722636,
+          "title": "Nakuru"
+        }
+      ]
+    },
+    {
+      "cid": 96,
+      "title": "Kiribati",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1954251,
+          "title": "Tarawa"
+        }
+      ]
+    },
+    {
+      "cid": 105,
+      "title": "Kuwait",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 3136789,
+          "title": "Al Jahra"
+        },
+        {
+          "cid": 259,
+          "title": "Kuwait"
+        }
+      ]
+    },
+    {
+      "cid": 11,
+      "title": "Kyrgyzstan",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 204,
+          "title": "Bishkek"
+        },
+        {
+          "cid": 10291,
+          "title": "Batken"
+        },
+        {
+          "cid": 13181,
+          "title": "Jalal-Abad"
+        },
+        {
+          "cid": 21166,
+          "title": "Kant"
+        },
+        {
+          "cid": 421,
+          "title": "Karakol"
+        },
+        {
+          "cid": 21346,
+          "title": "Naryn"
+        },
+        {
+          "cid": 1949250,
+          "title": "Osh"
+        },
+        {
+          "cid": 9727,
+          "title": "Talas"
+        },
+        {
+          "cid": 1576,
+          "title": "Tokmok"
+        },
+        {
+          "cid": 4885,
+          "title": "Uzgen"
+        }
+      ]
+    },
+    {
+      "cid": 106,
+      "title": "Laos",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 3906956,
+          "title": "Ban Phônsavan"
+        },
+        {
+          "cid": 3713013,
+          "title": "Louangphrabang"
+        },
+        {
+          "cid": 3712657,
+          "title": "Pakxé"
+        },
+        {
+          "cid": 3712485,
+          "title": "San Nua"
+        },
+        {
+          "cid": 3712477,
+          "title": "Savannakhét"
+        },
+        {
+          "cid": 1902834,
+          "title": "Vientiane"
+        }
+      ]
+    },
+    {
+      "cid": 12,
+      "title": "Latvia",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1925340,
+          "title": "Rīga"
+        },
+        {
+          "cid": 1713629,
+          "title": "Daugavpils"
+        },
+        {
+          "cid": 1959511,
+          "title": "Liepāja"
+        },
+        {
+          "cid": 1801712,
+          "title": "Jelgava"
+        },
+        {
+          "cid": 1953391,
+          "title": "Jūrmala"
+        },
+        {
+          "cid": 1909043,
+          "title": "Ventspils"
+        },
+        {
+          "cid": 1921996,
+          "title": "Rēzekne"
+        },
+        {
+          "cid": 1905282,
+          "title": "Valmiera"
+        },
+        {
+          "cid": 1715161,
+          "title": "Ogre"
+        },
+        {
+          "cid": 1907193,
+          "title": "Cēsis"
+        }
+      ]
+    },
+    {
+      "cid": 109,
+      "title": "Lebanon",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1711157,
+          "title": "Beirut"
+        },
+        {
+          "cid": 3133387,
+          "title": "Sidon"
+        },
+        {
+          "cid": 2203009,
+          "title": "Tripoli"
+        }
+      ]
+    },
+    {
+      "cid": 107,
+      "title": "Lesotho",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1707134,
+          "title": "Mafeteng"
+        },
+        {
+          "cid": 20084,
+          "title": "Maseru"
+        },
+        {
+          "cid": 3335681,
+          "title": "Teyateyaneng"
+        }
+      ]
+    },
+    {
+      "cid": 108,
+      "title": "Liberia",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4048921,
+          "title": "Buchanan"
+        },
+        {
+          "cid": 4047647,
+          "title": "Harper"
+        },
+        {
+          "cid": 16311,
+          "title": "Monrovia"
+        }
+      ]
+    },
+    {
+      "cid": 110,
+      "title": "Libya",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 3043582,
+          "title": "Benghazi"
+        },
+        {
+          "cid": 4011978,
+          "title": "Misrata"
+        },
+        {
+          "cid": 4011766,
+          "title": "Sabha"
+        },
+        {
+          "cid": 4011716,
+          "title": "Tripoli"
+        }
+      ]
+    },
+    {
+      "cid": 111,
+      "title": "Liechtenstein",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1943080,
+          "title": "Vaduz"
+        }
+      ]
+    },
+    {
+      "cid": 13,
+      "title": "Lithuania",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1932227,
+          "title": "Vilnius "
+        },
+        {
+          "cid": 7085,
+          "title": "﻿Alytus"
+        },
+        {
+          "cid": 1710302,
+          "title": "Kaunas"
+        },
+        {
+          "cid": 225,
+          "title": "Klaipėda"
+        },
+        {
+          "cid": 1932501,
+          "title": "Marijampolė"
+        },
+        {
+          "cid": 16019,
+          "title": "Panevėžys"
+        },
+        {
+          "cid": 1802034,
+          "title": "Šiauliai"
+        },
+        {
+          "cid": 1909874,
+          "title": "Tauragė"
+        },
+        {
+          "cid": 1907322,
+          "title": "Telšiai"
+        },
+        {
+          "cid": 21445,
+          "title": "Utena"
+        }
+      ]
+    },
+    {
+      "cid": 112,
+      "title": "Luxembourg",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1707735,
+          "title": "Differdange"
+        },
+        {
+          "cid": 16639,
+          "title": "Dudelange"
+        },
+        {
+          "cid": 1713260,
+          "title": "Luxembourg"
+        }
+      ]
+    },
+    {
+      "cid": 116,
+      "title": "Macau",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722673,
+          "title": "Macau"
+        }
+      ]
+    },
+    {
+      "cid": 117,
+      "title": "Macedonia",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 22111,
+          "title": "Битола"
+        },
+        {
+          "cid": 1703185,
+          "title": "Куманово"
+        },
+        {
+          "cid": 1704088,
+          "title": "Охрид"
+        },
+        {
+          "cid": 1519308,
+          "title": "Прилеп"
+        },
+        {
+          "cid": 1943933,
+          "title": "Скопје"
+        },
+        {
+          "cid": 1921566,
+          "title": "Струмица"
+        },
+        {
+          "cid": 4631,
+          "title": "Тетово"
+        },
+        {
+          "cid": 2208157,
+          "title": "Штип"
+        }
+      ]
+    },
+    {
+      "cid": 115,
+      "title": "Madagascar",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 1908479,
+          "title": "Antananarivo"
+        },
+        {
+          "cid": 3374723,
+          "title": "Antsirabe"
+        },
+        {
+          "cid": 3371484,
+          "title": "Fianarantsoa"
+        },
+        {
+          "cid": 3370120,
+          "title": "Mahajanga"
+        },
+        {
+          "cid": 3363393,
+          "title": "Toamasina"
+        },
+        {
+          "cid": 3364823,
+          "title": "Toliara"
+        }
+      ]
+    },
+    {
+      "cid": 118,
+      "title": "Malawi",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3335544,
+          "title": "Blantyre"
+        },
+        {
+          "cid": 1904879,
+          "title": "Lilongwe"
+        },
+        {
+          "cid": 3330830,
+          "title": "Zomba"
+        }
+      ]
+    },
+    {
+      "cid": 119,
+      "title": "Malaysia",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 3767263,
+          "title": "Batu Pahat"
+        },
+        {
+          "cid": 1708345,
+          "title": "Ipoh"
+        },
+        {
+          "cid": 21632,
+          "title": "Johor Bahru"
+        },
+        {
+          "cid": 3767394,
+          "title": "Klang"
+        },
+        {
+          "cid": 1925548,
+          "title": "Kuala Lumpur"
+        },
+        {
+          "cid": 3768744,
+          "title": "Kuching"
+        },
+        {
+          "cid": 1518833,
+          "title": "Petaling Jaya"
+        },
+        {
+          "cid": 20323,
+          "title": "Shah Alam"
+        },
+        {
+          "cid": 1975436,
+          "title": "Subang Jaya"
+        }
+      ]
+    },
+    {
+      "cid": 121,
+      "title": "Maldives",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1936136,
+          "title": "Malé"
+        }
+      ]
+    },
+    {
+      "cid": 120,
+      "title": "Mali",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 2722672,
+          "title": "Bamako"
+        },
+        {
+          "cid": 4172022,
+          "title": "Kayes"
+        },
+        {
+          "cid": 4170959,
+          "title": "Koutiala"
+        },
+        {
+          "cid": 4170195,
+          "title": "Mopti"
+        },
+        {
+          "cid": 4169586,
+          "title": "Niono"
+        },
+        {
+          "cid": 4169583,
+          "title": "Nioro du Sahel"
+        },
+        {
+          "cid": 4168645,
+          "title": "Ségou"
+        },
+        {
+          "cid": 4168395,
+          "title": "Sikasso"
+        }
+      ]
+    },
+    {
+      "cid": 122,
+      "title": "Malta",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2300809,
+          "title": "Valletta"
+        }
+      ]
+    },
+    {
+      "cid": 125,
+      "title": "Marshall Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1901642,
+          "title": "Majuro"
+        }
+      ]
+    },
+    {
+      "cid": 124,
+      "title": "Martinique",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1909272,
+          "title": "Fort-de-France"
+        }
+      ]
+    },
+    {
+      "cid": 114,
+      "title": "Mauritania",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 4218684,
+          "title": "Adel Bagrou"
+        },
+        {
+          "cid": 4124806,
+          "title": "Nouâdhibou"
+        },
+        {
+          "cid": 1705918,
+          "title": "Nouakchott"
+        },
+        {
+          "cid": 4124734,
+          "title": "Rosso"
+        }
+      ]
+    },
+    {
+      "cid": 113,
+      "title": "Mauritius",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1943711,
+          "title": "Beau Bassin"
+        },
+        {
+          "cid": 1939234,
+          "title": "Curepipe"
+        },
+        {
+          "cid": 1918805,
+          "title": "Port Louis"
+        }
+      ]
+    },
+    {
+      "cid": 126,
+      "title": "Mexico",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1519067,
+          "title": "Ciudad Juárez"
+        },
+        {
+          "cid": 4683903,
+          "title": "Ciudad Nezahualcóyotl"
+        },
+        {
+          "cid": 4683178,
+          "title": "Ecatepec"
+        },
+        {
+          "cid": 1915171,
+          "title": "Guadalajara"
+        },
+        {
+          "cid": 1709655,
+          "title": "León"
+        },
+        {
+          "cid": 1950345,
+          "title": "México"
+        },
+        {
+          "cid": 21400,
+          "title": "Monterrey"
+        },
+        {
+          "cid": 1704163,
+          "title": "Puebla"
+        },
+        {
+          "cid": 22696,
+          "title": "Tijuana"
+        },
+        {
+          "cid": 4873429,
+          "title": "Zapopan"
+        }
+      ]
+    },
+    {
+      "cid": 127,
+      "title": "Micronesia",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 3649945,
+          "title": "Colonia"
+        },
+        {
+          "cid": 3979239,
+          "title": "Kolonia"
+        },
+        {
+          "cid": 3487,
+          "title": "Palikir"
+        },
+        {
+          "cid": 3979104,
+          "title": "Weno"
+        }
+      ]
+    },
+    {
+      "cid": 15,
+      "title": "Moldova",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 1710959,
+          "title": "Chişinău "
+        },
+        {
+          "cid": 374,
+          "title": "Tiraspol"
+        },
+        {
+          "cid": 953,
+          "title": "Bălţi "
+        },
+        {
+          "cid": 1223,
+          "title": "Bender"
+        },
+        {
+          "cid": 3902,
+          "title": "Dubăsari"
+        },
+        {
+          "cid": 8384,
+          "title": "Cahul"
+        },
+        {
+          "cid": 3985,
+          "title": "Comrat"
+        },
+        {
+          "cid": 741,
+          "title": "Orhei"
+        },
+        {
+          "cid": 1801266,
+          "title": "Soroca"
+        }
+      ]
+    },
+    {
+      "cid": 129,
+      "title": "Monaco",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1801744,
+          "title": "Monaco"
+        }
+      ]
+    },
+    {
+      "cid": 130,
+      "title": "Mongolia",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 10851,
+          "title": "Choibalsan"
+        },
+        {
+          "cid": 3960046,
+          "title": "Darkhan"
+        },
+        {
+          "cid": 5360,
+          "title": "Erdenet"
+        },
+        {
+          "cid": 192,
+          "title": "Ulaanbaatar"
+        }
+      ]
+    },
+    {
+      "cid": 230,
+      "title": "Montenegro",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 4566299,
+          "title": "Bar"
+        },
+        {
+          "cid": 4566216,
+          "title": "Bečići"
+        },
+        {
+          "cid": 4603800,
+          "title": "Bijelo Polje"
+        },
+        {
+          "cid": 1925205,
+          "title": "Budva"
+        },
+        {
+          "cid": 22016,
+          "title": "Nikšić"
+        },
+        {
+          "cid": 22014,
+          "title": "Podgorica"
+        }
+      ]
+    },
+    {
+      "cid": 131,
+      "title": "Montserrat",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722654,
+          "title": "Plymouth"
+        }
+      ]
+    },
+    {
+      "cid": 123,
+      "title": "Morocco",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1915267,
+          "title": "Agadir"
+        },
+        {
+          "cid": 1913974,
+          "title": "Casablanca"
+        },
+        {
+          "cid": 2208190,
+          "title": "Fès"
+        },
+        {
+          "cid": 1931000,
+          "title": "Kenitra"
+        },
+        {
+          "cid": 1920737,
+          "title": "Marrakech"
+        },
+        {
+          "cid": 4197974,
+          "title": "Meknès"
+        },
+        {
+          "cid": 1936359,
+          "title": "Oujda"
+        },
+        {
+          "cid": 4196246,
+          "title": "Rabat"
+        },
+        {
+          "cid": 2722668,
+          "title": "Tangier"
+        },
+        {
+          "cid": 4193799,
+          "title": "Tetouan"
+        }
+      ]
+    },
+    {
+      "cid": 128,
+      "title": "Mozambique",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 3362645,
+          "title": "Beira"
+        },
+        {
+          "cid": 3360904,
+          "title": "Chimoio"
+        },
+        {
+          "cid": 1715275,
+          "title": "Maputo"
+        },
+        {
+          "cid": 3355671,
+          "title": "Matola"
+        },
+        {
+          "cid": 3353355,
+          "title": "Nacala"
+        },
+        {
+          "cid": 3352914,
+          "title": "Nampula"
+        },
+        {
+          "cid": 3351310,
+          "title": "Quelimane"
+        },
+        {
+          "cid": 3349839,
+          "title": "Tete"
+        },
+        {
+          "cid": 3358859,
+          "title": "Vila Junqueiro"
+        },
+        {
+          "cid": 3348910,
+          "title": "Xai-Xai"
+        }
+      ]
+    },
+    {
+      "cid": 132,
+      "title": "Myanmar",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 3527180,
+          "title": "Akyab"
+        },
+        {
+          "cid": 1925343,
+          "title": "Bago"
+        },
+        {
+          "cid": 3539877,
+          "title": "Mandalay"
+        },
+        {
+          "cid": 3537060,
+          "title": "Mawlamyine"
+        },
+        {
+          "cid": 3538061,
+          "title": "Meiktila"
+        },
+        {
+          "cid": 3537108,
+          "title": "Monywa"
+        },
+        {
+          "cid": 3537934,
+          "title": "Myeik"
+        },
+        {
+          "cid": 1933419,
+          "title": "Naypyidaw"
+        },
+        {
+          "cid": 3552872,
+          "title": "Pathein"
+        },
+        {
+          "cid": 3525794,
+          "title": "Taunggyi"
+        },
+        {
+          "cid": 3529468,
+          "title": "Yangon"
+        }
+      ]
+    },
+    {
+      "cid": 133,
+      "title": "Namibia",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 4614003,
+          "title": "Swakopmund"
+        },
+        {
+          "cid": 1707518,
+          "title": "Windhoek"
+        }
+      ]
+    },
+    {
+      "cid": 134,
+      "title": "Nauru",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1515772,
+          "title": "Yaren"
+        }
+      ]
+    },
+    {
+      "cid": 135,
+      "title": "Nepal",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 3516953,
+          "title": "Birātnagar"
+        },
+        {
+          "cid": 1932487,
+          "title": "Kathmandu"
+        },
+        {
+          "cid": 3516459,
+          "title": "Pātan"
+        },
+        {
+          "cid": 862,
+          "title": "Pokhara"
+        }
+      ]
+    },
+    {
+      "cid": 139,
+      "title": "Netherlands",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 22168,
+          "title": "Amsterdam"
+        },
+        {
+          "cid": 1056,
+          "title": "Den Haag"
+        },
+        {
+          "cid": 1430,
+          "title": "Eindhoven"
+        },
+        {
+          "cid": 5303,
+          "title": "Groningen"
+        },
+        {
+          "cid": 10416,
+          "title": "Haarlem"
+        },
+        {
+          "cid": 19937,
+          "title": "Nijmegen"
+        },
+        {
+          "cid": 969,
+          "title": "Rotterdam"
+        },
+        {
+          "cid": 12308,
+          "title": "Tilburg"
+        },
+        {
+          "cid": 2220,
+          "title": "Utrecht"
+        }
+      ]
+    },
+    {
+      "cid": 143,
+      "title": "New Caledonia",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 5421329,
+          "title": "Nouméa"
+        }
+      ]
+    },
+    {
+      "cid": 142,
+      "title": "New Zealand",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 1941,
+          "title": "Auckland"
+        },
+        {
+          "cid": 8478,
+          "title": "Christchurch"
+        },
+        {
+          "cid": 1518927,
+          "title": "Dunedin"
+        },
+        {
+          "cid": 14174,
+          "title": "Hamilton"
+        },
+        {
+          "cid": 8790,
+          "title": "Tauranga"
+        },
+        {
+          "cid": 1442,
+          "title": "Wellington"
+        }
+      ]
+    },
+    {
+      "cid": 140,
+      "title": "Nicaragua",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4719528,
+          "title": "León"
+        },
+        {
+          "cid": 1971198,
+          "title": "Managua"
+        },
+        {
+          "cid": 4719372,
+          "title": "Masaya"
+        }
+      ]
+    },
+    {
+      "cid": 136,
+      "title": "Niger",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4161904,
+          "title": "Maradi"
+        },
+        {
+          "cid": 1915143,
+          "title": "Niamey"
+        },
+        {
+          "cid": 4159910,
+          "title": "Zinder"
+        }
+      ]
+    },
+    {
+      "cid": 137,
+      "title": "Nigeria",
+      "citiesCount": 12,
+      "cities": [
+        {
+          "cid": 2782,
+          "title": "Abuja"
+        },
+        {
+          "cid": 4102329,
+          "title": "Benin-City"
+        },
+        {
+          "cid": 4101428,
+          "title": "Calabar"
+        },
+        {
+          "cid": 4095475,
+          "title": "Ibadan"
+        },
+        {
+          "cid": 4093846,
+          "title": "Ilorin"
+        },
+        {
+          "cid": 4092180,
+          "title": "Kaduna"
+        },
+        {
+          "cid": 21665,
+          "title": "Kano"
+        },
+        {
+          "cid": 1802482,
+          "title": "Lagos"
+        },
+        {
+          "cid": 4088595,
+          "title": "Maiduguri"
+        },
+        {
+          "cid": 4810,
+          "title": "Port Harcourt"
+        },
+        {
+          "cid": 4077693,
+          "title": "Warri"
+        },
+        {
+          "cid": 4076508,
+          "title": "Zaria"
+        }
+      ]
+    },
+    {
+      "cid": 141,
+      "title": "Niue",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722646,
+          "title": "Alofi"
+        }
+      ]
+    },
+    {
+      "cid": 148,
+      "title": "Norfolk Island",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1705256,
+          "title": "Kingston"
+        }
+      ]
+    },
+    {
+      "cid": 173,
+      "title": "North Korea",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 3970007,
+          "title": "Chongjin"
+        },
+        {
+          "cid": 3851219,
+          "title": "Haeju"
+        },
+        {
+          "cid": 1974085,
+          "title": "Hamheung"
+        },
+        {
+          "cid": 3969479,
+          "title": "Hoeryeong"
+        },
+        {
+          "cid": 3850192,
+          "title": "Kaeseong"
+        },
+        {
+          "cid": 5147677,
+          "title": "Nampo"
+        },
+        {
+          "cid": 1406,
+          "title": "Pyongyang"
+        },
+        {
+          "cid": 3845731,
+          "title": "Sariwon"
+        },
+        {
+          "cid": 3967137,
+          "title": "Sinŭiju"
+        },
+        {
+          "cid": 3842439,
+          "title": "Wonsan"
+        }
+      ]
+    },
+    {
+      "cid": 174,
+      "title": "Northern Mariana Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 4906088,
+          "title": "Saipan"
+        }
+      ]
+    },
+    {
+      "cid": 144,
+      "title": "Norway",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 420,
+          "title": "Bergen"
+        },
+        {
+          "cid": 4037,
+          "title": "Drammen"
+        },
+        {
+          "cid": 20941,
+          "title": "Fredrikstad"
+        },
+        {
+          "cid": 1451,
+          "title": "Kristiansand"
+        },
+        {
+          "cid": 2805,
+          "title": "Oslo"
+        },
+        {
+          "cid": 1519197,
+          "title": "Stavanger"
+        },
+        {
+          "cid": 1903333,
+          "title": "Tromsø"
+        },
+        {
+          "cid": 3302,
+          "title": "Trondheim"
+        }
+      ]
+    },
+    {
+      "cid": 146,
+      "title": "Oman",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1909196,
+          "title": "Muscat"
+        },
+        {
+          "cid": 1932666,
+          "title": "Nizwá"
+        },
+        {
+          "cid": 3137057,
+          "title": "Şalālah"
+        }
+      ]
+    },
+    {
+      "cid": 152,
+      "title": "Pakistan",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 17668,
+          "title": "Faisalābād"
+        },
+        {
+          "cid": 1931203,
+          "title": "Gujrānwāla"
+        },
+        {
+          "cid": 3572952,
+          "title": "Hyderābād"
+        },
+        {
+          "cid": 1972637,
+          "title": "Islamabad"
+        },
+        {
+          "cid": 1907034,
+          "title": "Karāchi"
+        },
+        {
+          "cid": 1938475,
+          "title": "Lahore"
+        },
+        {
+          "cid": 1516656,
+          "title": "Multan"
+        },
+        {
+          "cid": 9150,
+          "title": "Peshāwar"
+        },
+        {
+          "cid": 3434385,
+          "title": "Rāwalpindi"
+        }
+      ]
+    },
+    {
+      "cid": 153,
+      "title": "Palau",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1933454,
+          "title": "Koror"
+        }
+      ]
+    },
+    {
+      "cid": 154,
+      "title": "Palestine",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 2211398,
+          "title": "Bethlehem"
+        },
+        {
+          "cid": 14364,
+          "title": "Gaza"
+        },
+        {
+          "cid": 3136059,
+          "title": "Khan Yunis"
+        }
+      ]
+    },
+    {
+      "cid": 155,
+      "title": "Panama",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4769879,
+          "title": "Colón"
+        },
+        {
+          "cid": 4769771,
+          "title": "David"
+        },
+        {
+          "cid": 4765912,
+          "title": "Panama"
+        }
+      ]
+    },
+    {
+      "cid": 156,
+      "title": "Papua New Guinea",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 3989733,
+          "title": "Arawa"
+        },
+        {
+          "cid": 3987593,
+          "title": "Goroka"
+        },
+        {
+          "cid": 3985679,
+          "title": "Kokopo"
+        },
+        {
+          "cid": 1712009,
+          "title": "Lae"
+        },
+        {
+          "cid": 3984676,
+          "title": "Madang"
+        },
+        {
+          "cid": 3983780,
+          "title": "Mount Hagen"
+        },
+        {
+          "cid": 1801741,
+          "title": "Port Moresby"
+        },
+        {
+          "cid": 3980077,
+          "title": "Wewak"
+        }
+      ]
+    },
+    {
+      "cid": 157,
+      "title": "Paraguay",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 22713,
+          "title": "Asunción"
+        },
+        {
+          "cid": 1929063,
+          "title": "Ciudad del Este"
+        },
+        {
+          "cid": 4639346,
+          "title": "Encarnación"
+        }
+      ]
+    },
+    {
+      "cid": 158,
+      "title": "Peru",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 22066,
+          "title": "Arequipa"
+        },
+        {
+          "cid": 4763702,
+          "title": "Chiclayo"
+        },
+        {
+          "cid": 4763676,
+          "title": "Chimbote"
+        },
+        {
+          "cid": 4854992,
+          "title": "Huancayo"
+        },
+        {
+          "cid": 4762580,
+          "title": "Iquitos"
+        },
+        {
+          "cid": 1902438,
+          "title": "Lima"
+        },
+        {
+          "cid": 1905888,
+          "title": "Piura"
+        },
+        {
+          "cid": 11672,
+          "title": "Trujillo"
+        }
+      ]
+    },
+    {
+      "cid": 206,
+      "title": "Philippines",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1901820,
+          "title": "Baguio"
+        },
+        {
+          "cid": 3758635,
+          "title": "Caloocan"
+        },
+        {
+          "cid": 22149,
+          "title": "Cebu City"
+        },
+        {
+          "cid": 1904928,
+          "title": "Davao"
+        },
+        {
+          "cid": 3752619,
+          "title": "Iloilo"
+        },
+        {
+          "cid": 6412,
+          "title": "Manila"
+        },
+        {
+          "cid": 3741757,
+          "title": "Pasay"
+        },
+        {
+          "cid": 3741736,
+          "title": "Pasig"
+        },
+        {
+          "cid": 3740137,
+          "title": "Quezon City"
+        },
+        {
+          "cid": 3734386,
+          "title": "Taguig"
+        },
+        {
+          "cid": 3731227,
+          "title": "Zamboanga"
+        }
+      ]
+    },
+    {
+      "cid": 159,
+      "title": "Pitcairn Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722543,
+          "title": "Adamstown"
+        }
+      ]
+    },
+    {
+      "cid": 160,
+      "title": "Poland",
+      "citiesCount": 12,
+      "cities": [
+        {
+          "cid": 1936080,
+          "title": "Białystok"
+        },
+        {
+          "cid": 8505,
+          "title": "Bydgoszcz"
+        },
+        {
+          "cid": 21280,
+          "title": "Gdańsk"
+        },
+        {
+          "cid": 1517185,
+          "title": "Gdynia"
+        },
+        {
+          "cid": 1929447,
+          "title": "Katowice"
+        },
+        {
+          "cid": 2202278,
+          "title": "Kraków"
+        },
+        {
+          "cid": 6949,
+          "title": "Lublin"
+        },
+        {
+          "cid": 20436,
+          "title": "Poznań"
+        },
+        {
+          "cid": 1962158,
+          "title": "Szczecin"
+        },
+        {
+          "cid": 1922897,
+          "title": "Warszawa"
+        },
+        {
+          "cid": 1515655,
+          "title": "Wrocław"
+        },
+        {
+          "cid": 6823,
+          "title": "Łódź"
+        }
+      ]
+    },
+    {
+      "cid": 161,
+      "title": "Portugal",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 4578,
+          "title": "Braga"
+        },
+        {
+          "cid": 1705822,
+          "title": "Coimbra"
+        },
+        {
+          "cid": 21985,
+          "title": "Funchal"
+        },
+        {
+          "cid": 2204640,
+          "title": "Lisboa"
+        },
+        {
+          "cid": 4591,
+          "title": "Porto"
+        },
+        {
+          "cid": 19000,
+          "title": "Setúbal"
+        }
+      ]
+    },
+    {
+      "cid": 162,
+      "title": "Puerto Rico",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 1968366,
+          "title": "Ponce"
+        },
+        {
+          "cid": 13600,
+          "title": "San Juan"
+        }
+      ]
+    },
+    {
+      "cid": 93,
+      "title": "Qatar",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 3138142,
+          "title": "Al Khawr"
+        },
+        {
+          "cid": 3138126,
+          "title": "Al Wakrah"
+        },
+        {
+          "cid": 1928920,
+          "title": "Doha"
+        },
+        {
+          "cid": 3138056,
+          "title": "Umm Sa`īd"
+        }
+      ]
+    },
+    {
+      "cid": 165,
+      "title": "Romania",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1713324,
+          "title": "Brăila"
+        },
+        {
+          "cid": 1706305,
+          "title": "Braşov"
+        },
+        {
+          "cid": 1913559,
+          "title": "Bucureşti"
+        },
+        {
+          "cid": 13479,
+          "title": "Cluj-Napoca"
+        },
+        {
+          "cid": 1707831,
+          "title": "Constanţa"
+        },
+        {
+          "cid": 5404,
+          "title": "Craiova"
+        },
+        {
+          "cid": 2002069,
+          "title": "Galaţi"
+        },
+        {
+          "cid": 1970052,
+          "title": "Iaşi"
+        },
+        {
+          "cid": 3232612,
+          "title": "Oradea"
+        },
+        {
+          "cid": 1516406,
+          "title": "Ploieşti"
+        },
+        {
+          "cid": 14945,
+          "title": "Timişoara"
+        }
+      ]
+    },
+    {
+      "cid": 1,
+      "title": "Russia",
+      "citiesCount": 18,
+      "cities": [
+        {
+          "cid": 1,
+          "title": "Moscow"
+        },
+        {
+          "cid": 2,
+          "title": "Saint Petersburg"
+        },
+        {
+          "cid": 10,
+          "title": "Volgograd"
+        },
+        {
+          "cid": 37,
+          "title": "Vladivostok"
+        },
+        {
+          "cid": 153,
+          "title": "Khabarovsk"
+        },
+        {
+          "cid": 49,
+          "title": "Yekaterinburg"
+        },
+        {
+          "cid": 60,
+          "title": "Kazan"
+        },
+        {
+          "cid": 61,
+          "title": "Kaliningrad"
+        },
+        {
+          "cid": 72,
+          "title": "Krasnodar"
+        },
+        {
+          "cid": 73,
+          "title": "Krasnoyarsk"
+        },
+        {
+          "cid": 95,
+          "title": "Nizhny Novgorod"
+        },
+        {
+          "cid": 99,
+          "title": "Novosibirsk"
+        },
+        {
+          "cid": 104,
+          "title": "Omsk"
+        },
+        {
+          "cid": 110,
+          "title": "Perm"
+        },
+        {
+          "cid": 119,
+          "title": "Rostov-on-Don"
+        },
+        {
+          "cid": 123,
+          "title": "Samara"
+        },
+        {
+          "cid": 151,
+          "title": "Ufa"
+        },
+        {
+          "cid": 158,
+          "title": "Chelyabinsk"
+        }
+      ]
+    },
+    {
+      "cid": 164,
+      "title": "Rwanda",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3099335,
+          "title": "Butare"
+        },
+        {
+          "cid": 3099168,
+          "title": "Gisenyi"
+        },
+        {
+          "cid": 2722633,
+          "title": "Kigali"
+        }
+      ]
+    },
+    {
+      "cid": 163,
+      "title": "Réunion",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1802008,
+          "title": "Saint Denis"
+        }
+      ]
+    },
+    {
+      "cid": 172,
+      "title": "Saint Helena",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722623,
+          "title": "Jamestown"
+        }
+      ]
+    },
+    {
+      "cid": 178,
+      "title": "Saint Kitts and Nevis",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2205177,
+          "title": "Basseterre"
+        }
+      ]
+    },
+    {
+      "cid": 179,
+      "title": "Saint Lucia",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 1931388,
+          "title": "Castries"
+        },
+        {
+          "cid": 4696402,
+          "title": "Vieux Fort"
+        }
+      ]
+    },
+    {
+      "cid": 180,
+      "title": "Saint Pierre and Miquelon",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722620,
+          "title": "Saint-Pierre"
+        }
+      ]
+    },
+    {
+      "cid": 177,
+      "title": "Saint Vincent and the Grenadines",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 4857,
+          "title": "Kingstown"
+        }
+      ]
+    },
+    {
+      "cid": 167,
+      "title": "Samoa",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722632,
+          "title": "Apia"
+        }
+      ]
+    },
+    {
+      "cid": 168,
+      "title": "San Marino",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1711816,
+          "title": "San Marino"
+        }
+      ]
+    },
+    {
+      "cid": 170,
+      "title": "Saudi Arabia",
+      "citiesCount": 7,
+      "cities": [
+        {
+          "cid": 1948839,
+          "title": "Ad Dammām"
+        },
+        {
+          "cid": 3051774,
+          "title": "Buraydah"
+        },
+        {
+          "cid": 2205240,
+          "title": "Jiddah"
+        },
+        {
+          "cid": 2203667,
+          "title": "Mecca"
+        },
+        {
+          "cid": 3052246,
+          "title": "Medina"
+        },
+        {
+          "cid": 1708618,
+          "title": "Riyadh"
+        },
+        {
+          "cid": 3051056,
+          "title": "Tabuk"
+        }
+      ]
+    },
+    {
+      "cid": 176,
+      "title": "Senegal",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1913359,
+          "title": "Dakar"
+        },
+        {
+          "cid": 2206725,
+          "title": "Diourbel"
+        },
+        {
+          "cid": 4030491,
+          "title": "Kaolack"
+        },
+        {
+          "cid": 4029129,
+          "title": "Louga"
+        },
+        {
+          "cid": 4028520,
+          "title": "Mbour"
+        },
+        {
+          "cid": 4026873,
+          "title": "Rufisque"
+        },
+        {
+          "cid": 4026837,
+          "title": "Saint-Louis"
+        },
+        {
+          "cid": 4025387,
+          "title": "Thiès"
+        },
+        {
+          "cid": 4024983,
+          "title": "Touba"
+        },
+        {
+          "cid": 4024697,
+          "title": "Ziguinchor"
+        }
+      ]
+    },
+    {
+      "cid": 181,
+      "title": "Serbia",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1950030,
+          "title": "Beograd"
+        },
+        {
+          "cid": 1518127,
+          "title": "Čačak"
+        },
+        {
+          "cid": 1962051,
+          "title": "Kragujevac"
+        },
+        {
+          "cid": 1936627,
+          "title": "Kruševac"
+        },
+        {
+          "cid": 2208756,
+          "title": "Niš"
+        },
+        {
+          "cid": 1918022,
+          "title": "Novi Sad"
+        },
+        {
+          "cid": 1950729,
+          "title": "Pančevo"
+        },
+        {
+          "cid": 1970913,
+          "title": "Smederevo"
+        },
+        {
+          "cid": 1705820,
+          "title": "Subotica"
+        },
+        {
+          "cid": 1960274,
+          "title": "Zrenjanin"
+        }
+      ]
+    },
+    {
+      "cid": 175,
+      "title": "Seychelles",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1973675,
+          "title": "Victoria"
+        }
+      ]
+    },
+    {
+      "cid": 190,
+      "title": "Sierra Leone",
+      "citiesCount": 5,
+      "cities": [
+        {
+          "cid": 4142757,
+          "title": "Bo"
+        },
+        {
+          "cid": 5375,
+          "title": "Freetown"
+        },
+        {
+          "cid": 4140708,
+          "title": "Kenema"
+        },
+        {
+          "cid": 4140611,
+          "title": "Koidu"
+        },
+        {
+          "cid": 4139488,
+          "title": "Makeni"
+        }
+      ]
+    },
+    {
+      "cid": 182,
+      "title": "Singapore",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1707102,
+          "title": "Singapore"
+        }
+      ]
+    },
+    {
+      "cid": 234,
+      "title": "Sint Maarten",
+      "citiesCount": 0,
+      "cities": []
+    },
+    {
+      "cid": 184,
+      "title": "Slovakia",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 6267,
+          "title": "Banská Bystrica"
+        },
+        {
+          "cid": 1908070,
+          "title": "Bratislava"
+        },
+        {
+          "cid": 1707309,
+          "title": "Košice"
+        },
+        {
+          "cid": 5944,
+          "title": "Martin"
+        },
+        {
+          "cid": 20044,
+          "title": "Nitra"
+        },
+        {
+          "cid": 19307,
+          "title": "Prešov"
+        },
+        {
+          "cid": 10501,
+          "title": "Trenčín"
+        },
+        {
+          "cid": 16422,
+          "title": "Trnava"
+        },
+        {
+          "cid": 21008,
+          "title": "Žilina"
+        }
+      ]
+    },
+    {
+      "cid": 185,
+      "title": "Slovenia",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1519257,
+          "title": "Celje"
+        },
+        {
+          "cid": 1709791,
+          "title": "Izola"
+        },
+        {
+          "cid": 21994,
+          "title": "Koper"
+        },
+        {
+          "cid": 1518814,
+          "title": "Kranj"
+        },
+        {
+          "cid": 2201761,
+          "title": "Ljubljana"
+        },
+        {
+          "cid": 9187,
+          "title": "Maribor"
+        },
+        {
+          "cid": 21687,
+          "title": "Nova Gorica"
+        },
+        {
+          "cid": 21945,
+          "title": "Novo Mesto"
+        },
+        {
+          "cid": 1709802,
+          "title": "Piran"
+        },
+        {
+          "cid": 1911151,
+          "title": "Portorož"
+        }
+      ]
+    },
+    {
+      "cid": 186,
+      "title": "Solomon Islands",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3992627,
+          "title": "Gizo"
+        },
+        {
+          "cid": 3992506,
+          "title": "Honiara"
+        },
+        {
+          "cid": 3991573,
+          "title": "Munda"
+        }
+      ]
+    },
+    {
+      "cid": 187,
+      "title": "Somalia",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2208942,
+          "title": "Mogadishu"
+        }
+      ]
+    },
+    {
+      "cid": 227,
+      "title": "South Africa",
+      "citiesCount": 7,
+      "cities": [
+        {
+          "cid": 1919645,
+          "title": "Bloemfontein"
+        },
+        {
+          "cid": 1904878,
+          "title": "Cape Town"
+        },
+        {
+          "cid": 3346881,
+          "title": "Durban"
+        },
+        {
+          "cid": 1935934,
+          "title": "Johannesburg"
+        },
+        {
+          "cid": 1916971,
+          "title": "Pietermaritzburg"
+        },
+        {
+          "cid": 1706870,
+          "title": "Port Elizabeth"
+        },
+        {
+          "cid": 3340030,
+          "title": "Pretoria"
+        }
+      ]
+    },
+    {
+      "cid": 226,
+      "title": "South Korea",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 1938720,
+          "title": "Busan"
+        },
+        {
+          "cid": 1713816,
+          "title": "Daegu"
+        },
+        {
+          "cid": 21414,
+          "title": "Daejeon"
+        },
+        {
+          "cid": 1517397,
+          "title": "Gwangju"
+        },
+        {
+          "cid": 1517025,
+          "title": "Incheon"
+        },
+        {
+          "cid": 1712003,
+          "title": "Seoul"
+        },
+        {
+          "cid": 1903398,
+          "title": "Suwon"
+        },
+        {
+          "cid": 1912463,
+          "title": "Ulsan"
+        }
+      ]
+    },
+    {
+      "cid": 232,
+      "title": "South Sudan",
+      "citiesCount": 0,
+      "cities": []
+    },
+    {
+      "cid": 87,
+      "title": "Spain",
+      "citiesCount": 12,
+      "cities": [
+        {
+          "cid": 1901501,
+          "title": "Barcelona"
+        },
+        {
+          "cid": 1919614,
+          "title": "Bilbao"
+        },
+        {
+          "cid": 1907832,
+          "title": "Granada"
+        },
+        {
+          "cid": 1937941,
+          "title": "Las Palmas de Gran Canaria"
+        },
+        {
+          "cid": 1516454,
+          "title": "Madrid"
+        },
+        {
+          "cid": 1906065,
+          "title": "Málaga"
+        },
+        {
+          "cid": 1936660,
+          "title": "Murcia"
+        },
+        {
+          "cid": 1516052,
+          "title": "Palma"
+        },
+        {
+          "cid": 1902562,
+          "title": "Santa Cruz de Tenerife"
+        },
+        {
+          "cid": 1932533,
+          "title": "Sevilla"
+        },
+        {
+          "cid": 10191,
+          "title": "Valencia"
+        },
+        {
+          "cid": 1915397,
+          "title": "Zaragoza"
+        }
+      ]
+    },
+    {
+      "cid": 220,
+      "title": "Sri Lanka",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 4510,
+          "title": "Colombo"
+        },
+        {
+          "cid": 3491068,
+          "title": "Dehiwala"
+        },
+        {
+          "cid": 2203089,
+          "title": "Galle"
+        },
+        {
+          "cid": 20934,
+          "title": "Jaffna"
+        },
+        {
+          "cid": 861,
+          "title": "Kandy"
+        },
+        {
+          "cid": 3485023,
+          "title": "Kurunegala"
+        },
+        {
+          "cid": 3483149,
+          "title": "Moratuwa"
+        },
+        {
+          "cid": 3485546,
+          "title": "Sri Jayawardenapura Kotte"
+        },
+        {
+          "cid": 3478752,
+          "title": "Trincomalee"
+        }
+      ]
+    },
+    {
+      "cid": 188,
+      "title": "Sudan",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 1962177,
+          "title": "Khartoum"
+        },
+        {
+          "cid": 3186757,
+          "title": "Khartoum North"
+        },
+        {
+          "cid": 3181110,
+          "title": "Omdurman"
+        },
+        {
+          "cid": 3185755,
+          "title": "Port Sudan"
+        }
+      ]
+    },
+    {
+      "cid": 189,
+      "title": "Suriname",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4619213,
+          "title": "Lelydorp"
+        },
+        {
+          "cid": 4619156,
+          "title": "Nieuw Nickerie"
+        },
+        {
+          "cid": 1950376,
+          "title": "Paramaribo"
+        }
+      ]
+    },
+    {
+      "cid": 219,
+      "title": "Svalbard and Jan Mayen",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 1704932,
+          "title": "Barentsburg"
+        },
+        {
+          "cid": 1956288,
+          "title": "Longyearbyen"
+        }
+      ]
+    },
+    {
+      "cid": 171,
+      "title": "Swaziland",
+      "citiesCount": 0,
+      "cities": []
+    },
+    {
+      "cid": 218,
+      "title": "Sweden",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 2480,
+          "title": "Göteborg"
+        },
+        {
+          "cid": 4262796,
+          "title": "Helsingborg"
+        },
+        {
+          "cid": 2357,
+          "title": "Jönköping"
+        },
+        {
+          "cid": 8534,
+          "title": "Linköping"
+        },
+        {
+          "cid": 3810,
+          "title": "Malmö"
+        },
+        {
+          "cid": 1712307,
+          "title": "Norrköping"
+        },
+        {
+          "cid": 1517678,
+          "title": "Örebro"
+        },
+        {
+          "cid": 2210985,
+          "title": "Stockholm"
+        },
+        {
+          "cid": 1379,
+          "title": "Uppsala"
+        },
+        {
+          "cid": 16215,
+          "title": "Västerås"
+        }
+      ]
+    },
+    {
+      "cid": 217,
+      "title": "Switzerland",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1904856,
+          "title": "Basel"
+        },
+        {
+          "cid": 1714646,
+          "title": "Bern"
+        },
+        {
+          "cid": 21709,
+          "title": "Biel / Bienne"
+        },
+        {
+          "cid": 1713669,
+          "title": "Genève"
+        },
+        {
+          "cid": 1901266,
+          "title": "Lausanne"
+        },
+        {
+          "cid": 1714897,
+          "title": "Lugano"
+        },
+        {
+          "cid": 1903535,
+          "title": "Luzern"
+        },
+        {
+          "cid": 1926519,
+          "title": "Montana"
+        },
+        {
+          "cid": 1517576,
+          "title": "Sankt Gallen"
+        },
+        {
+          "cid": 22054,
+          "title": "Winterthur"
+        },
+        {
+          "cid": 703,
+          "title": "Zürich"
+        }
+      ]
+    },
+    {
+      "cid": 183,
+      "title": "Syria",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 3090469,
+          "title": "Aleppo"
+        },
+        {
+          "cid": 1951460,
+          "title": "Damascus"
+        },
+        {
+          "cid": 3090787,
+          "title": "Dayr az Zawr"
+        },
+        {
+          "cid": 3090445,
+          "title": "Hama"
+        },
+        {
+          "cid": 3090219,
+          "title": "Homs"
+        },
+        {
+          "cid": 1945192,
+          "title": "Latakia"
+        }
+      ]
+    },
+    {
+      "cid": 169,
+      "title": "São Tomé and Príncipe",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 2722630,
+          "title": "Neves"
+        },
+        {
+          "cid": 2722628,
+          "title": "São Tomé"
+        },
+        {
+          "cid": 2722629,
+          "title": "Trindade"
+        }
+      ]
+    },
+    {
+      "cid": 192,
+      "title": "Taiwan",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 3726888,
+          "title": "Kaohsiung"
+        },
+        {
+          "cid": 5446717,
+          "title": "New Taipei"
+        },
+        {
+          "cid": 3722863,
+          "title": "Taichung"
+        },
+        {
+          "cid": 5422738,
+          "title": "Tainan"
+        },
+        {
+          "cid": 1920306,
+          "title": "Taipei"
+        },
+        {
+          "cid": 12070,
+          "title": "Taoyuan"
+        }
+      ]
+    },
+    {
+      "cid": 16,
+      "title": "Tajikistan",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1937246,
+          "title": "Dushanbe"
+        },
+        {
+          "cid": 291,
+          "title": "Isfara"
+        },
+        {
+          "cid": 6341,
+          "title": "Kayrakkum"
+        },
+        {
+          "cid": 11589,
+          "title": "Kulob"
+        },
+        {
+          "cid": 4460,
+          "title": "Konibodom"
+        },
+        {
+          "cid": 1963511,
+          "title": "Qurghonteppa"
+        },
+        {
+          "cid": 4301,
+          "title": "Nurak"
+        },
+        {
+          "cid": 10022,
+          "title": "Panjakent"
+        },
+        {
+          "cid": 1518436,
+          "title": "Istarawshan"
+        },
+        {
+          "cid": 1760,
+          "title": "Khujand"
+        },
+        {
+          "cid": 1921403,
+          "title": "Chkalovsk"
+        }
+      ]
+    },
+    {
+      "cid": 193,
+      "title": "Tanzania",
+      "citiesCount": 5,
+      "cities": [
+        {
+          "cid": 3085801,
+          "title": "Dar es Salaam"
+        },
+        {
+          "cid": 3085769,
+          "title": "Dodoma"
+        },
+        {
+          "cid": 3081391,
+          "title": "Mwanza"
+        },
+        {
+          "cid": 3080157,
+          "title": "Tanga"
+        },
+        {
+          "cid": 3079695,
+          "title": "Zanzibar"
+        }
+      ]
+    },
+    {
+      "cid": 191,
+      "title": "Thailand",
+      "citiesCount": 11,
+      "cities": [
+        {
+          "cid": 1906450,
+          "title": "Bangkok"
+        },
+        {
+          "cid": 5326979,
+          "title": "Chiang Mai"
+        },
+        {
+          "cid": 3685482,
+          "title": "Chon Buri"
+        },
+        {
+          "cid": 3676907,
+          "title": "Khon Kaen"
+        },
+        {
+          "cid": 3684974,
+          "title": "Nakhon Ratchasima"
+        },
+        {
+          "cid": 3424679,
+          "title": "Nakhon Si Thammarat"
+        },
+        {
+          "cid": 3684898,
+          "title": "Nonthaburi"
+        },
+        {
+          "cid": 1803702,
+          "title": "Phuket"
+        },
+        {
+          "cid": 1955178,
+          "title": "Songkhla"
+        },
+        {
+          "cid": 3424571,
+          "title": "Surat Thani"
+        },
+        {
+          "cid": 3684514,
+          "title": "Udon Thani"
+        }
+      ]
+    },
+    {
+      "cid": 194,
+      "title": "Togo",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4118440,
+          "title": "Kara"
+        },
+        {
+          "cid": 1703900,
+          "title": "Lomé"
+        },
+        {
+          "cid": 4117080,
+          "title": "Sokodé"
+        }
+      ]
+    },
+    {
+      "cid": 195,
+      "title": "Tokelau",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 4904816,
+          "title": "Tokelau"
+        }
+      ]
+    },
+    {
+      "cid": 196,
+      "title": "Tonga",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 1914355,
+          "title": "Nuku`alofa"
+        }
+      ]
+    },
+    {
+      "cid": 197,
+      "title": "Trinidad and Tobago",
+      "citiesCount": 4,
+      "cities": [
+        {
+          "cid": 4695954,
+          "title": "Chaguanas"
+        },
+        {
+          "cid": 1917549,
+          "title": "Port-of-Spain"
+        },
+        {
+          "cid": 1943125,
+          "title": "San Fernando"
+        },
+        {
+          "cid": 4695619,
+          "title": "San Juan"
+        }
+      ]
+    },
+    {
+      "cid": 199,
+      "title": "Tunisia",
+      "citiesCount": 7,
+      "cities": [
+        {
+          "cid": 4177122,
+          "title": "Ben Arous"
+        },
+        {
+          "cid": 1916364,
+          "title": "Bizerte"
+        },
+        {
+          "cid": 4177261,
+          "title": "Kairouan"
+        },
+        {
+          "cid": 4176647,
+          "title": "Nabeul"
+        },
+        {
+          "cid": 4176505,
+          "title": "Sfax"
+        },
+        {
+          "cid": 1904843,
+          "title": "Sousse"
+        },
+        {
+          "cid": 1944167,
+          "title": "Tunis"
+        }
+      ]
+    },
+    {
+      "cid": 200,
+      "title": "Turkey",
+      "citiesCount": 9,
+      "cities": [
+        {
+          "cid": 2722454,
+          "title": "Adana"
+        },
+        {
+          "cid": 1953016,
+          "title": "Ankara"
+        },
+        {
+          "cid": 1974051,
+          "title": "Antalya"
+        },
+        {
+          "cid": 1952694,
+          "title": "Bursa"
+        },
+        {
+          "cid": 1703566,
+          "title": "Eskişehir"
+        },
+        {
+          "cid": 2722455,
+          "title": "Gaziantep"
+        },
+        {
+          "cid": 2204899,
+          "title": "İstanbul"
+        },
+        {
+          "cid": 2203360,
+          "title": "İzmir"
+        },
+        {
+          "cid": 2722456,
+          "title": "Konya"
+        }
+      ]
+    },
+    {
+      "cid": 17,
+      "title": "Turkmenistan",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 1903188,
+          "title": "Аннау"
+        },
+        {
+          "cid": 5022,
+          "title": "Атамурат"
+        },
+        {
+          "cid": 924,
+          "title": "Ашхабад"
+        },
+        {
+          "cid": 2001650,
+          "title": "Балканабад"
+        },
+        {
+          "cid": 2981,
+          "title": "Дашогуз"
+        },
+        {
+          "cid": 2113,
+          "title": "Мары"
+        },
+        {
+          "cid": 14878,
+          "title": "Сердар"
+        },
+        {
+          "cid": 1710499,
+          "title": "Серхетабад"
+        },
+        {
+          "cid": 1710648,
+          "title": "Туркменабад"
+        },
+        {
+          "cid": 1947100,
+          "title": "Туркменбашы"
+        }
+      ]
+    },
+    {
+      "cid": 151,
+      "title": "Turks and Caicos Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 5421341,
+          "title": "Cockburn Town"
+        }
+      ]
+    },
+    {
+      "cid": 198,
+      "title": "Tuvalu",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722609,
+          "title": "Funafuti"
+        }
+      ]
+    },
+    {
+      "cid": 53,
+      "title": "US Virgin Islands",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2207483,
+          "title": "Charlotte Amalie"
+        }
+      ]
+    },
+    {
+      "cid": 9,
+      "title": "USA",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 1515864,
+          "title": "Boston"
+        },
+        {
+          "cid": 1017,
+          "title": "Chicago"
+        },
+        {
+          "cid": 8496,
+          "title": "Houston"
+        },
+        {
+          "cid": 5331,
+          "title": "Los Angeles"
+        },
+        {
+          "cid": 378,
+          "title": "New York City"
+        },
+        {
+          "cid": 1708303,
+          "title": "Philadelphia"
+        },
+        {
+          "cid": 208,
+          "title": "San Francisco"
+        },
+        {
+          "cid": 1661,
+          "title": "Washington, D.C."
+        }
+      ]
+    },
+    {
+      "cid": 201,
+      "title": "Uganda",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 3117872,
+          "title": "Jinja"
+        },
+        {
+          "cid": 1901401,
+          "title": "Kampala"
+        },
+        {
+          "cid": 3115702,
+          "title": "Mbale"
+        }
+      ]
+    },
+    {
+      "cid": 2,
+      "title": "Ukraine",
+      "citiesCount": 15,
+      "cities": [
+        {
+          "cid": 314,
+          "title": "Kyiv"
+        },
+        {
+          "cid": 650,
+          "title": "Dnipropetrovsk (Dnipro)"
+        },
+        {
+          "cid": 223,
+          "title": "Donetsk"
+        },
+        {
+          "cid": 628,
+          "title": "Zaporizhia"
+        },
+        {
+          "cid": 916,
+          "title": "Kryvyi Rih"
+        },
+        {
+          "cid": 1057,
+          "title": "Lviv"
+        },
+        {
+          "cid": 552,
+          "title": "Luhansk"
+        },
+        {
+          "cid": 455,
+          "title": "Mariupol"
+        },
+        {
+          "cid": 377,
+          "title": "Mykolaiv"
+        },
+        {
+          "cid": 292,
+          "title": "Odessa"
+        },
+        {
+          "cid": 185,
+          "title": "Sevastopol"
+        },
+        {
+          "cid": 627,
+          "title": "Simferopol"
+        },
+        {
+          "cid": 280,
+          "title": "Kharkiv"
+        },
+        {
+          "cid": 761,
+          "title": "Vinnytsia"
+        },
+        {
+          "cid": 444,
+          "title": "Chernihiv"
+        }
+      ]
+    },
+    {
+      "cid": 145,
+      "title": "United Arab Emirates",
+      "citiesCount": 8,
+      "cities": [
+        {
+          "cid": 1908597,
+          "title": "Abu Dhabi"
+        },
+        {
+          "cid": 3138589,
+          "title": "Ajman"
+        },
+        {
+          "cid": 3138575,
+          "title": "Al Fujayrah"
+        },
+        {
+          "cid": 1901538,
+          "title": "Dubai"
+        },
+        {
+          "cid": 3138426,
+          "title": "Khawr Fakkān"
+        },
+        {
+          "cid": 3138366,
+          "title": "Ra's al Khaymah"
+        },
+        {
+          "cid": 1912526,
+          "title": "Sharjah"
+        },
+        {
+          "cid": 3138316,
+          "title": "Umm al Qaywayn"
+        }
+      ]
+    },
+    {
+      "cid": 49,
+      "title": "United Kingdom",
+      "citiesCount": 12,
+      "cities": [
+        {
+          "cid": 22426,
+          "title": "Belfast"
+        },
+        {
+          "cid": 2057,
+          "title": "Birmingham"
+        },
+        {
+          "cid": 1560,
+          "title": "Bristol"
+        },
+        {
+          "cid": 4872,
+          "title": "Cardiff"
+        },
+        {
+          "cid": 1246,
+          "title": "Edinburgh"
+        },
+        {
+          "cid": 1201,
+          "title": "Glasgow"
+        },
+        {
+          "cid": 1535,
+          "title": "Leeds"
+        },
+        {
+          "cid": 2702,
+          "title": "Liverpool"
+        },
+        {
+          "cid": 295,
+          "title": "London"
+        },
+        {
+          "cid": 584,
+          "title": "Manchester"
+        },
+        {
+          "cid": 6696,
+          "title": "Newcastle upon Tyne"
+        },
+        {
+          "cid": 20905,
+          "title": "Sheffield"
+        }
+      ]
+    },
+    {
+      "cid": 203,
+      "title": "Uruguay",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 10797,
+          "title": "Montevideo"
+        },
+        {
+          "cid": 4640070,
+          "title": "Paysandú"
+        },
+        {
+          "cid": 4639915,
+          "title": "Salto"
+        }
+      ]
+    },
+    {
+      "cid": 18,
+      "title": "Uzbekistan",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 194,
+          "title": "Tashkent"
+        },
+        {
+          "cid": 3522,
+          "title": "Bukhara"
+        },
+        {
+          "cid": 1961590,
+          "title": "Kokand"
+        },
+        {
+          "cid": 2410,
+          "title": "Nukus"
+        },
+        {
+          "cid": 972,
+          "title": "Samarkand"
+        },
+        {
+          "cid": 1927491,
+          "title": "Khiva"
+        }
+      ]
+    },
+    {
+      "cid": 48,
+      "title": "Vanuatu",
+      "citiesCount": 2,
+      "cities": [
+        {
+          "cid": 3998177,
+          "title": "Luganville"
+        },
+        {
+          "cid": 3997885,
+          "title": "Port-Vila"
+        }
+      ]
+    },
+    {
+      "cid": 233,
+      "title": "Vatican",
+      "citiesCount": 0,
+      "cities": []
+    },
+    {
+      "cid": 51,
+      "title": "Venezuela",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 4735503,
+          "title": "Barcelona"
+        },
+        {
+          "cid": 4735485,
+          "title": "Barquisimeto"
+        },
+        {
+          "cid": 1956352,
+          "title": "Caracas"
+        },
+        {
+          "cid": 1971678,
+          "title": "Ciudad Bolívar"
+        },
+        {
+          "cid": 4734093,
+          "title": "Ciudad Guayana"
+        },
+        {
+          "cid": 1516780,
+          "title": "Maracaibo"
+        },
+        {
+          "cid": 1954634,
+          "title": "Maracay"
+        },
+        {
+          "cid": 4791003,
+          "title": "Maturín"
+        },
+        {
+          "cid": 4723632,
+          "title": "Turmero"
+        },
+        {
+          "cid": 2722547,
+          "title": "Valencia"
+        }
+      ]
+    },
+    {
+      "cid": 55,
+      "title": "Vietnam",
+      "citiesCount": 6,
+      "cities": [
+        {
+          "cid": 2722565,
+          "title": "Cần Thơ"
+        },
+        {
+          "cid": 3668057,
+          "title": "Da Nang"
+        },
+        {
+          "cid": 3666055,
+          "title": "Hà Tĩnh"
+        },
+        {
+          "cid": 1928100,
+          "title": "Haiphong"
+        },
+        {
+          "cid": 1931617,
+          "title": "Hanoi"
+        },
+        {
+          "cid": 3655108,
+          "title": "Ho Chi Minh City"
+        }
+      ]
+    },
+    {
+      "cid": 202,
+      "title": "Wallis and Futuna",
+      "citiesCount": 1,
+      "cities": [
+        {
+          "cid": 2722585,
+          "title": "Mata-Utu"
+        }
+      ]
+    },
+    {
+      "cid": 78,
+      "title": "Western Sahara",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 4176087,
+          "title": "Ad-Dakhla"
+        },
+        {
+          "cid": 4176065,
+          "title": "El Aaiún"
+        },
+        {
+          "cid": 4176064,
+          "title": "Smara"
+        }
+      ]
+    },
+    {
+      "cid": 89,
+      "title": "Yemen",
+      "citiesCount": 7,
+      "cities": [
+        {
+          "cid": 3196405,
+          "title": "Aden"
+        },
+        {
+          "cid": 2722621,
+          "title": "Al Ḩudaydah"
+        },
+        {
+          "cid": 1942311,
+          "title": "Al Mukallā"
+        },
+        {
+          "cid": 3040771,
+          "title": "Dhamār"
+        },
+        {
+          "cid": 3040099,
+          "title": "Ibb"
+        },
+        {
+          "cid": 2722618,
+          "title": "Sanaa"
+        },
+        {
+          "cid": 3038458,
+          "title": "Taizz"
+        }
+      ]
+    },
+    {
+      "cid": 77,
+      "title": "Zambia",
+      "citiesCount": 10,
+      "cities": [
+        {
+          "cid": 3328515,
+          "title": "Chingola"
+        },
+        {
+          "cid": 3328364,
+          "title": "Chipata"
+        },
+        {
+          "cid": 2722598,
+          "title": "Kabwe"
+        },
+        {
+          "cid": 3325995,
+          "title": "Kasama"
+        },
+        {
+          "cid": 2722597,
+          "title": "Kitwe"
+        },
+        {
+          "cid": 2722601,
+          "title": "Livingstone"
+        },
+        {
+          "cid": 2722600,
+          "title": "Luanshya"
+        },
+        {
+          "cid": 2722595,
+          "title": "Lusaka"
+        },
+        {
+          "cid": 3322794,
+          "title": "Mufulira"
+        },
+        {
+          "cid": 2722596,
+          "title": "Ndola"
+        }
+      ]
+    },
+    {
+      "cid": 79,
+      "title": "Zimbabwe",
+      "citiesCount": 3,
+      "cities": [
+        {
+          "cid": 1957370,
+          "title": "Bulawayo"
+        },
+        {
+          "cid": 3396276,
+          "title": "Chitungwiza"
+        },
+        {
+          "cid": 2722607,
+          "title": "Harare"
+        }
+      ]
+    }
+  ]
+}
